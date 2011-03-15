@@ -117,6 +117,16 @@ div#main_container {
 	z-index: 1;
 }
 
+div#main_container_homepage {
+    float: left;
+	position: relative;
+	text-align:left;
+	margin: 0 10px 0 5px;	
+	padding: 0;
+	text-align: justify;
+}
+
+
 div#main_liquid_container {
     float: left;
 	position: relative;

@@ -12,10 +12,12 @@ If you are just starting or contemplating whether this addictive past time is fo
 
 If you are an intermeadiate or experienced paddler navigate to the [forum section](http://mcmasterwhitewater.ca/forum) to find out what the current members are up to.
  
-<img src="images/0708pic.jpg"/>
+<div style='margin:0 auto;width:524px;'><img src='images/0708pic.jpg' /></div>
 
- 
-See you on the river or in the pool,
-
+<div style='float:right;'>
+<br/>
+<p>See you on the river or in the pool,</p>
 <i>McMaster WhiteWater Exec</i>
- 
+</div>
+
+
