@@ -13,7 +13,7 @@ There was a string of paddlers at Mac through the 70s and 80s who were Provincia
 A few years later, the kayak club became the Outers Club. The focus changed to include a variety of outdoor activities. Racers started to gravitate towards schools in the Ottawa or Vancouver areas.
 
 ## Rebirth
-In 2006  Robbie Gibb, Jeff Masuda, Steve Bickerton, Laura Duncan and Stacey Gray got together to form what is McMaster White Water is today. Details are murky, but through dedication and countless hours contributed by volunteers, McMaster White Water
+In 2006  Robbie Gibb, Jeff Masuda, Steve Bickerton, Laura Duncan and Stacey Gray got together to form what is known as McMaster White Water today. Details are murky, but through dedication and countless hours contributed by volunteers, McMaster White Water
 
 - Owns a fleet of white water boats
 - Runs multiple "guided" trips every summer
