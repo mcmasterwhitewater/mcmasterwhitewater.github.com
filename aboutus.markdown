@@ -27,13 +27,13 @@ Greg Baltrop - Club President
 
 Brad Statham - Vice President
 
-Laura Duncan � Lead Instructor
+Laura Duncan - Lead Instructor
 
 Geoff Boyd - Assistant Instructor
 
-Scott Parker � Innocent Victim
+Scott Parker - Innocent Victim
 
-Leigh Ann Roddick � Perpetrator of Heinous Crimes
+Leigh Ann Roddick - Perpetrator of Heinous Crimes
 
 ## Past exec
 
