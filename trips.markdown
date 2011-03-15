@@ -16,7 +16,7 @@ The Elora Gorge is a small section of the Grand River north of Guelph. It is ver
 The Madawaska trip is the  trip you will ever be on.  The trip departs Friday June 18th and returns Sunday June 20th.  We depart from Hamilton around 6:30pm with pickups along hwy 401 as necessary.  We will arrive at Palmer Rapids (near south east corner of Algonquin) very late and pitch tents in the dark.  The Saturday is spent on the river beside camp.  Students will learn the basics of paddling in moving water   The second day is spent running the lower Madawaska.  The cost of this trip is expected to be $85. The cost of the trip includes transportation, boat, paddle, skirt, helmet, and Saturday night supper.  The participant must supply a PFD (or BA), camping gear, and suitable clothing. 
  
 ## Gull: July/August $80  
-The Gull river is located in Minden 3.5 hours North-East of Hamilton. It is unique as it offers different challenges to different levels of paddler with something for everyone. This trip is open to all paddlers, no matter what their experience.  We will be camping at the Minden Whitewater Preserve right on the shores of the river.
+The Gull river is located in Minden 3.5 hours North-East of Hamilton. It is unique as it offers different challenges to different levels of paddler with something for everyone. This trip is open to all paddlers, no matter what their experience.  We will be camping at the [Minden Whitewater Preserve](http://www.whitewaterontario.ca/index.php?option=com_content&view=article&id=51&Itemid=62) right on the shores of the river.
  
 If you have any questions email mcmasterwhitewater@gmail.com or post on the forum.
  
