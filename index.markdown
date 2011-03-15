@@ -6,11 +6,11 @@ is_page: true
 
  
  
-Spring is finally here. A few remaining pool sessions will help you to hone your skills before the most trying and exciting part of the season - spring run off. Remember to be safe out there.
+Spring is finally here. We have a few remaining pool sessions to help you to hone your skills before the most exciting part of the season - spring run off! Remember to be safe out there.
 
-If you are just starting or contemplating whether this addictive past time is for you, we suggest waiting for warmer weather. Palmerfest is a good festival to check out. Also check the [courses](courses.html) we offer in the fall and winter.
+If you are just starting or contemplating whether this addictive past time is for you, we suggest waiting for warmer weather. [Palmerfest](http://paddlerco-op.com/content/make-reservation-0), is a great opportunity to get paddling instruction on the river.  We also run beginner trips in the summer months. Stay tuned for more information on these. Also check out the [courses](courses.html) we offer in the fall and winter. 
 
-If you are an intermediate or experienced paddler navigate to the [forum section](http://mcmasterwhitewater.ca/forum) to find out what the current members are up to.
+If you are an intermediate or experienced paddler, navigate to the [forum section](http://mcmasterwhitewater.ca/forum) to find out what the current members are up to.
  
 <div style='margin:0 auto;width:524px;'><img src='images/0708pic.jpg' /></div>
 
