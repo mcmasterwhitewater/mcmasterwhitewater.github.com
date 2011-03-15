@@ -4,7 +4,7 @@ title: About us
 is_page: true
 ---
 ## History
-(provided cortesy of Gary Barton)
+(provided courtesy of Gary Barton)
 
 White water paddling has a long history at McMaster. Before the advent of play paddling in little plastic boats white water kayaking in Ontario meant racing. You may not always race, but chances are you got your start that way because you knew someone who did it. Also, everyone knew everyone else in the Sport because it was so small. 
  
@@ -27,13 +27,13 @@ Greg Baltrop - Club President
 
 Brad Statham - Vice President
 
-Laura Duncan – Lead Instructor
+Laura Duncan ï¿½ Lead Instructor
 
 Geoff Boyd - Assistant Instructor
 
-Scott Parker – Innocent Victim
+Scott Parker ï¿½ Innocent Victim
 
-Leigh Ann Roddick – Perpetrator of Heinous Crimes
+Leigh Ann Roddick ï¿½ Perpetrator of Heinous Crimes
 
 ## Past exec
 
