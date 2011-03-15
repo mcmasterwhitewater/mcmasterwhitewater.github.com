@@ -2,8 +2,14 @@
 
 /*clear browser settings*/
 /*___________________________________________________________________________*/
-html, body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset {  
+html, body, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset {  
+
 	margin: 0; 
+	padding: 0; 
+	border: 0; 
+}
+ul {
+    margin: 0 0 0 1em;	
 	padding: 0; 
 	border: 0; 
 }
