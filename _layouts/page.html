@@ -20,6 +20,10 @@
 		<link  type="text/css"  rel="stylesheet"  media="screen"  charset="utf-8"  href="css/style.css" />
 		<link  type="text/css"  rel="stylesheet"  media="screen"  charset="utf-8"  href="css/slimbox.css" />
 		<link  type="text/css"  rel="stylesheet"  media="screen"  charset="utf-8"  href="css/picasaViewer.css" />
+		<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAGUX0LsYS23ItTWBg6etkWhSPQay4Rqr7ZBY_qAQSU4HBZuiDmBQThf720C8HEltRqK9z3yW-X0wF5Q">
+    </script>
+	<script type="text/javascript" src="js/gfdynamicfeedcontrol.js"></script>
+
 </head>
 
 <body>
@@ -36,9 +40,46 @@
   
   <img src="images/mm_logo.gif" height="75" border="0" alt="McMaster University"/>
   <img   style="padding:0px 0px 0px 85px" src="images/mww_text.gif" height="75" border="0" alt="McMaster White Water"/>
-  <img style="padding:0px 0px 0px 60px" src="images/mww_logo.gif" height="75" border="0" alt="McMaster White Water" />
-  
+  <img style="padding:0px 0px 0px 60px" src="images/mww_logo.gif" height="75" border="0" alt="McMaster White Water" />  
   <!-- END logo -->
+  <!-- ++Begin Dynamic Feed Wizard Generated Code++ -->
+  <!--
+  // Created with a Google AJAX Search and Feed Wizard
+  // http://code.google.com/apis/ajaxsearch/wizards.html
+  -->
+
+  <!--
+  // The Following div element will end up holding the actual feed control.
+  // You can place this anywhere on your page.
+  -->
+  <div id="feed-control" style="height:2em;">
+    <span style="color:#676767;font-size:11px;margin:10px;padding:4px;">Loading MWW Forum Headlines...</span>
+  </div>
+
+  <!-- Google Ajax Api
+  -->  
+  
+
+  <script type="text/javascript">
+    function LoadDynamicFeedControl() {
+      var feeds = [
+	{title: 'MWW Forum',
+	 url: 'http://mcmasterwhitewater.ca/forum/cgi-bin/yabb2/YaBB.pl?action=RSSrecent'
+	}];
+      var options = {
+        stacked : false,
+        horizontal : true,
+        title : ""
+      }
+
+      new GFdynamicFeedControl(feeds, 'feed-control', options);
+    }
+    // Load the feeds API and set the onload callback.
+    google.load('feeds', '1');
+    google.setOnLoadCallback(LoadDynamicFeedControl);
+  </script>
+<!-- ++End Dynamic Feed Control Wizard Generated Code++ -->
+                
   <!-- START menuwrap -->
   <div id="menuwrap">
     <!-- START menu -->
