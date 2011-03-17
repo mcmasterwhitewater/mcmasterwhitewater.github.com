@@ -30,5 +30,5 @@ If you have any questions email mcmasterwhitewater@gmail.com
 <div style='float:right;'>
 <br/>
 <p>See you on the river or in the pool,</p>
-<i>McMaster WhiteWater Exec</i>
+<i>McMaster Whitewater Exec</i>
 </div>

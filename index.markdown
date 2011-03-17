@@ -17,7 +17,7 @@ If you are an intermediate or experienced paddler, navigate to the [forum sectio
 <div style='float:right;'>
 <br/>
 <p>See you on the river or in the pool,</p>
-<i>McMaster WhiteWater Exec</i>
+<i>McMaster Whitewater Exec</i>
 </div>
 
 

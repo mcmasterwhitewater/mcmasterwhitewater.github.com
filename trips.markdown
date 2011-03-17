@@ -9,7 +9,7 @@ The 2010 MW club tripping season has ended.  The following info is being left up
 
 ## Elora Gorge: May XXth, $45.
  
-The Elora Gorge is a small section of the Grand River north of Guelph. It is very beginner friendly, no previous white water experience is necessary.  This is a day trip departing from the McMaster Pool and ending with a BBQ near Mohawk College.  Transportation is provided by volunteer drivers who will be compensated for their gas.  The club will supply kayak, paddle, skirt, and helmet.  The participant must supply a PFD (or BA) and suitable clothing (no cotton).  The cost of this trip is expected to be $45.
+The Elora Gorge is a small section of the Grand River north of Guelph. It is very beginner friendly, no previous whitewater experience is necessary.  This is a day trip departing from the McMaster Pool and ending with a BBQ near Mohawk College.  Transportation is provided by volunteer drivers who will be compensated for their gas.  The club will supply kayak, paddle, skirt, and helmet.  The participant must supply a PFD (or BA) and suitable clothing (no cotton).  The cost of this trip is expected to be $45.
  
 ## Madawaska: June XXth-XXth $85
 
@@ -29,5 +29,5 @@ Advanced whitewater kayaking trips with McMaster Whitewater tend to be spur of t
 <div style='float:right;'>
 <br/>
 <p>See you on the river or in the pool,</p>
-<i>McMaster WhiteWater Exec</i>
+<i>McMaster Whitewater Exec</i>
 </div>
