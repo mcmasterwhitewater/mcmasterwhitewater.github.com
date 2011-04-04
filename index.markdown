@@ -6,7 +6,7 @@ is_page: true
 
  
  
-Spring is finally here. We have a few remaining pool sessions to help you to hone your skills before the most exciting part of the season - spring run off! 
+Pool sessions are over for the season. They will  restart in the fall.
 
 If you are just starting or contemplating whether this addictive past time is for you, we suggest waiting for warmer weather. [Palmerfest](http://paddlerco-op.com/content/make-reservation-0), is a great opportunity to get paddling instruction on the river.  The club runs [beginner trips](http://www2.mcmasterwhitewater.ca/trips.html) in the summer months. More information coming soon about these. Also check out the [courses](courses.html) we offer in the fall and winter. 
 
