@@ -13,6 +13,16 @@ If you are just starting or contemplating whether this addictive past time is fo
 If you are an intermediate or experienced paddler, navigate to the [forum section](http://mcmasterwhitewater.ca/forum) to find out what the current members are up to. Remember to be safe out there.
  
 
+<!-- ++Rotating images++ -->
+
+<script src="js/jquery.js">
+</script>
+<script src="js/picasa.js">
+</script>
+<script src="js/rotateIndexImage.js">
+</script>
+<!-- ++End of image Rotating images++ -->                	
+
  
 <div id='pictureDiv' style='margin:0 auto;height:400px;width:800px;'><img id='picture' style='position:relative;'/>
 </div>
