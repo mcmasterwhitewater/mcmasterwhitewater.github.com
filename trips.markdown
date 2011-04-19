@@ -7,7 +7,7 @@ is_page: true
 
 New paddling season 2011 is upon us. Don't miss the opportunity to join us on the water. 
 
-Download, fill, sign and return your [WAIVER](images/waiver_2011_all.pdf).
+[DOWNLOAD, FILL, SIGN and RETURN your WAIVER NOT TO MISS our TRIPS.](images/waiver_2011_all.pdf)
 
 ## Elora Gorge
 Trip Date:  May 28th
@@ -44,7 +44,7 @@ Forms Due Date:  July 7th
 The Gull river allows us to customize the experience to the level of the individual student.  Some students will stay at the washout and master the basics.  Others will progress upstream for more adventurous paddling.  We will depart from Hamilton on Saturday morning and return on Sunday evening.  The club will supply a boat, paddle, helmet, and skirt.  The student will need to supply a PFD (life jacket), water shoes, breakfasts, and lunches.
 
  
-If you have any questions email mcmasterwhitewater@gmail.com or post on the forum.
+If you have any questions email [mcmasterwhitewater@gmail.com](mailto:mcmasterwhitewater@gmail.com) or post on the forum.
  
 
  
