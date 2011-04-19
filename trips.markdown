@@ -7,7 +7,7 @@ is_page: true
 
 New paddling season 2011 is upon us. Don't miss the opportunity to join us on the water. 
 
-[DOWNLOAD, FILL, SIGN and RETURN your WAIVER NOT TO MISS our TRIPS.](images/waiver_2011_all.pdf)
+[DOWNLOAD, FILL, SIGN and RETURN your WAIVER.](images/waiver_2011_all.pdf)
 
 ## Elora Gorge
 Trip Date:  May 28th
