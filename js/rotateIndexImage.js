@@ -56,27 +56,28 @@ function swapPictures() {
     // compute the new size and offsets
     var result = scaleImage(w, h, tw, th);
 
-    var newImage = new Image();
+    var newImage = $(new Image());
 	var showPicture = function(){
 	               pictureDiv.append(newImage);
                     $(newImage).attr("id", "picture").attr({
                         "width": result.width,
                         "height": result.height
                     }).css({
+					    "position": "relative",
                         "left": result.targetleft,
                         "top": result.targettop
                     }).fadeIn(1000, function () {
                         window.setTimeout(swapPictures, 5000);
                     });
 	}
-    // adjust the image coordinates and size
+    // load new image
     $(newImage).css("display", 'none').load(
     function () {
         var images = pictureDiv.children("img");
         if (images && images.length > 0) {
             images.each(function () {
-                var imgElem = $(this)
-                imgElem.fadeOut(1000, function () {
+                var oldImage = $(this)
+                oldImage.fadeOut(1000, function () {
                     $(this).remove();
 					showPicture();
      
