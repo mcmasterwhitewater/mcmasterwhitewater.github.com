@@ -63,7 +63,7 @@ function swapPictures() {
                         "width": result.width,
                         "height": result.height
                     }).css({
-					    "position": "relative",
+					    "position": "absolute",
                         "left": result.targetleft,
                         "top": result.targettop
                     }).fadeIn(1000, function () {
@@ -79,13 +79,9 @@ function swapPictures() {
                 var oldImage = $(this)
                 oldImage.fadeOut(1000, function () {
                     $(this).remove();
-					showPicture();
-     
                 });
             })
-        }else{
-		  showPicture();
-		}
-
+        }
+		showPicture();
     }).attr("src", albumImageParam.url);
 }
