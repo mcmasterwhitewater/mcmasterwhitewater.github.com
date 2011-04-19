@@ -5,18 +5,44 @@ is_page: true
 ---
  
 
-The 2010 MW club tripping season has ended.  The following info is being left up so you get a taste for what we offer. Check back later for information about our summer 2011 plans.
+New paddling season 2011 is upon us. Don't miss the opportunity to join us on the water. 
 
-## Elora Gorge: May XXth, $45.
- 
-The Elora Gorge is a small section of the Grand River north of Guelph. It is very beginner friendly, no previous whitewater experience is necessary.  This is a day trip departing from the McMaster Pool and ending with a BBQ near Mohawk College.  Transportation is provided by volunteer drivers who will be compensated for their gas.  The club will supply kayak, paddle, skirt, and helmet.  The participant must supply a PFD (or BA) and suitable clothing (no cotton).  The cost of this trip is expected to be $45.
- 
-## Madawaska: June XXth-XXth $85
+Download, fill, sign and return your [WAIVER](images/waiver_2011_all.pdf).
 
-The Madawaska trip is the  trip you will ever be on.  The trip departs Friday June 18th and returns Sunday June 20th.  We depart from Hamilton around 6:30pm with pickups along hwy 401 as necessary.  We will arrive at Palmer Rapids (near south east corner of Algonquin) very late and pitch tents in the dark.  The Saturday is spent on the river beside camp.  Students will learn the basics of paddling in moving water   The second day is spent running the lower Madawaska.  The cost of this trip is expected to be $85. The cost of the trip includes transportation, boat, paddle, skirt, helmet, and Saturday night supper.  The participant must supply a PFD (or BA), camping gear, and suitable clothing. 
+## Elora Gorge
+Trip Date:  May 28th
+
+Cost:  $70
+
+Organizer: Brad
+
+Forms Due Date:  May 19th
+
+The trip will leave from McMaster around 8:30am.  We will car pool to Elora and enjoy a trip down the river.  Then we will return to Hamilton for a BBQ.  The club will supply a boat, paddle, helmet, and skirt.  The student will need to supply a PFD (life jacket), water shoes, and lunch to be eaten while paddling. 
+
+## Lower Madawaska
+Date:  June 17-19
+
+Cost: $110
+
+Organizer: Leigh Ann
+
+Forms Due Date:  June 9th
+
+The Lower Madawska is a very beginner friendly river.  It is an excellent place to learn.  Friday night is spent driving and pitching tents in the dark.  Satuday is spent on the river near the campground.  Saturday night supper is supplied by the club.  Sunday morning we pack up camp and move to another section of the river.  Sunday night we drag our weary bodies back to Hamilton.  The club will supply a boat, paddle, helmet, and skirt.  The student will need to supply a PFD (life jacket), water shoes, breakfasts, and lunches.
+
  
-## Gull: July/August $80  
-The Gull river is located in Minden 3.5 hours North-East of Hamilton. It is unique as it offers different challenges to different levels of paddler with something for everyone. This trip is open to all paddlers, no matter what their experience.  We will be camping at the [Minden Whitewater Preserve](http://www.whitewaterontario.ca/index.php?option=com_content&view=article&id=51&Itemid=62) right on the shores of the river.
+## The Gull River
+Date:  July 16-17
+
+Cost: $100
+
+Organizer: TBD
+
+Forms Due Date:  July 7th
+
+The Gull river allows us to customize the experience to the level of the individual student.  Some students will stay at the washout and master the basics.  Others will progress upstream for more adventurous paddling.  We will depart from Hamilton on Saturday morning and return on Sunday evening.  The club will supply a boat, paddle, helmet, and skirt.  The student will need to supply a PFD (life jacket), water shoes, breakfasts, and lunches.
+
  
 If you have any questions email mcmasterwhitewater@gmail.com or post on the forum.
  
