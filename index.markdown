@@ -5,6 +5,7 @@ is_page: true
 ---
 
  
+[Trips schedule for 2011 is posted. Register while you still can.](trips.html)
  
 Pool sessions are over for the season. They will  restart in the fall.
 
