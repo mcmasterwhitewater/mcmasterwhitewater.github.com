@@ -13,7 +13,7 @@
             title: element["media$group"]["media$title"]["$t"],
             description: element["media$group"]["media$description"]["$t"],
 			numPhotos: element["gphoto$numphotos"]["$t"],
-            thumb: element["media$group"]["media$content"][0]["url"],
+            thumb: element["media$group"]["media$content"][0]["url"]
           }
           album.images = function(callback) {
             $.picasa.images(user, album.id, callback);

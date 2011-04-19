@@ -16,10 +16,6 @@ if($("pictureDiv")){
 					 numberOfLoadedPhotos++;
 					 if(numberOfLoadedPhotos == totalNumberOfPhotos){
 					   showPicture();
-					   window.setInterval(function(){
-					                        showPicture();
-										  },  5000);
-
 					 }
                   }
 			    );
@@ -33,7 +29,7 @@ if($("pictureDiv")){
   
 function scaleImage(srcwidth, srcheight, targetwidth, targetheight) {
 
-    var result = { width: 0, height: 0, fScaleToTargetWidth: true };
+    var result = { width: 0, height: 0};
 
     var scaleX = targetwidth/srcwidth;
 	var scaleY = targetheight/srcheight;
@@ -47,25 +43,53 @@ function scaleImage(srcwidth, srcheight, targetwidth, targetheight) {
 
     return result;
 }
-function showPicture(){
-  var image = allImages[Math.floor(Math.random()*allImages.length)];
-  var imgElem = $("#picture");
-  
-  
 
-    // what's the size of this image and it's parent
-    var w = image.width;
-    var h = image.height;
-    var tw = imgElem.parent().width();
-    var th = imgElem.parent().height();
+function showPicture(){ 
+    
+    var albumImageParam = allImages[Math.floor(Math.random()*allImages.length)];
+	var pictureDiv = $("#pictureDiv");
+	// what's the size of this image and the div this image will be placed in
+    var w = albumImageParam.width;
+    var h = albumImageParam.height;
+    var tw = pictureDiv.width();
+    var th = pictureDiv.height();
 
     // compute the new size and offsets
     var result = scaleImage(w, h, tw, th);
+	var imgElem = $("#picture");
+	var newImage = new Image();
+	
+	
+	// adjust the image coordinates and size
+    $(newImage).css("display", 'none')		   
+		   .load(
+		     function(){			   
+			   
+			   if(imgElem){
+			     
+			     imgElem.fadeOut("slow", 
+			                             function(){
+										   $(this).remove();
+										   $(newImage).attr("id", "picture")
+										              .attr("width", result.width)
+                                                      .attr("height", result.height)		   
+                                                      .css("left", result.targetleft)
+                                                      .css("top", result.targettop);
+										   pictureDiv.append(newImage);
+										   $(newImage).fadeIn("slow", function(){	
+										     window.setTimeout(showPicture, 5000);
+										   });
+                                           
+										 }
+										);			   
+			   }
+			   
+			   
+				
+			 }
+		   )
+	       .attr("src", albumImageParam.url);
 
-    // adjust the image coordinates and size
-    imgElem.attr("width", result.width);
-    imgElem.attr("height", result.height);
-    imgElem.css("left", result.targetleft);
-    imgElem.css("top", result.targettop);
-	imgElem.attr("src", image.url);
+	
 }
+
