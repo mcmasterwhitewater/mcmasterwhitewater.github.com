@@ -73,15 +73,14 @@ function swapPictures() {
     // load new image
     $(newImage).css("display", 'none').load(
     function () {
-        var images = pictureDiv.children("img");
-        if (images && images.length > 0) {
-            images.each(function () {
+        
+        pictureDiv.children("img").each(function () {
                 var oldImage = $(this)
                 oldImage.fadeOut(1000, function () {
                     $(this).remove();
                 });
-            })
-        }
+        })
+        
 		showPicture();
     }).attr("src", albumImageParam.url);
 }
