@@ -58,38 +58,28 @@ function showPicture(){
     var result = scaleImage(w, h, tw, th);
 	var imgElem = $("#picture");
 	var newImage = new Image();
-	
-	
 	// adjust the image coordinates and size
     $(newImage).css("display", 'none')		   
 		   .load(
 		     function(){			   
-			   
-			   if(imgElem){
-			     
-			     imgElem.fadeOut("slow", 
-			                             function(){
-										   $(this).remove();
-										   $(newImage).attr("id", "picture")
-										              .attr("width", result.width)
-                                                      .attr("height", result.height)		   
-                                                      .css("left", result.targetleft)
-                                                      .css("top", result.targettop);
-										   pictureDiv.append(newImage);
-										   $(newImage).fadeIn("slow", function(){	
-										     window.setTimeout(showPicture, 5000);
-										   });
-                                           
-										 }
-										);			   
+			   if(imgElem){			     
+			     imgElem.fadeOut(1000, 
+			                     function(){
+								   $(this).remove();
+								   pictureDiv.append(newImage);
+								   $(newImage).attr("id", "picture")
+	                                          .attr({"width": result.width, "height": result.height})		   
+                                              .css({"left": result.targetleft, "top": result.targettop})
+						                      .fadeIn(1000, 
+											          function(){	
+										                window.setTimeout(showPicture, 5000);
+										              }
+													 );
+								 }
+								);			   
 			   }
-			   
-			   
-				
 			 }
 		   )
 	       .attr("src", albumImageParam.url);
-
-	
 }
 
