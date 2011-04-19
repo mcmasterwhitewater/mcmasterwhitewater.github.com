@@ -25,7 +25,7 @@ If you are an intermediate or experienced paddler, navigate to the [forum sectio
 
  
 <div id='pictureDiv' style='margin:0 auto;height:400px;width:800px;'>
-  <img id='picture' style='position:relative;' src="images/0708pic.jpg"/>
+  <!--img id='picture' style='position:relative;' src="images/0708pic.jpg"/-->
 </div>
 <br/>
 <div style='float:right;'>
