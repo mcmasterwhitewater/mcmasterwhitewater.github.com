@@ -56,9 +56,9 @@ function generateTripHtml(parent){
 	    tripsHtml=tripsHtml+"<h2>"+calendarItem.title+"</h2>";
 	    tripsHtml=tripsHtml+"<p>Date(s): "+toVisibleDateRange(new Date(calendarItem.when[0].start), new Date(calendarItem.when[0].end))+"</p>";	  
 	    tripsHtml=tripsHtml+"<p>"+replaceCarriageReturnsWithBR(calendarItem.details)+"</p>";	  
-	    if(calendarItem.location)tripsHtml = tripsHtml+"<a target='_blank' href='http://maps.google.com/maps?q="+calendarItem.location+"'>Map</a>"
+	    if(calendarItem.location)tripsHtml = tripsHtml+"<a target='_blank' href='http://maps.google.com/maps?q="+calendarItem.location+"'>Map</a>";
+		tripsHtml+="<br/>";
       }
-
 	  $(parent).append(tripsHtml);    
     }
   });
