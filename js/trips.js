@@ -8,17 +8,31 @@ function toVisibleDateRange(startDate, endDate){
 	  if(startDate.getDate()==endDate.getDate()){	 
 	    return month_names[startDate.getMonth()]+ " "+startDate.getDate()+",  "+startDate.getFullYear();	  
 	  }else{
-	    return month_names[startDate.getMonth()]+ " "+startDate.getDate()+"-"+endDate.getDate()+",  "+startDate.getFullYear();	  
+	    return month_names[startDate.getMonth()]+ " "+startDate.getDate()+" - "+endDate.getDate()+",  "+startDate.getFullYear();	  
 	  }	  
 	}else{
-	  return month_names[startDate.getMonth()]+ " "+startDate.getDate()+"-"+ month_names[startDate.getMonth()]+ " "+endDate.getDate()+",  "+startDate.getFullYear();	  
+	  return month_names[startDate.getMonth()]+ " "+startDate.getDate()+" - "+ month_names[startDate.getMonth()]+ " "+endDate.getDate()+",  "+startDate.getFullYear();	  
 	}
   }else{
-	return month_names[startDate.getMonth()]+ " "+startDate.getDate()+",  "+startDate.getFullYear()+"-"+month_names[endDate.getMonth()]+ " "+endDate.getDate()+",  "+endDate.getFullYear();
+	return month_names[startDate.getMonth()]+ " "+startDate.getDate()+",  "+startDate.getFullYear()+" - "+month_names[endDate.getMonth()]+ " "+endDate.getDate()+",  "+endDate.getFullYear();
   }
 	
   
 }
+
+function parseISO8601DateInLocalTZ(dateString){
+    var chunks = dateString.split("T");
+	var dateString = chunks[0];
+	var dateChunks = dateString.split("-");
+	var timeString = "00:00:00";
+	if(chunks.length == 2){
+	  timeString = chunks[1].split(".")[0];
+	}
+	var timeChunks = timeString.split(":");
+	return new Date(dateChunks[0], dateChunks[1]-1, dateChunks[2], timeChunks[0], timeChunks[1], timeChunks[2]);
+	
+}
+
 function intToTwoDigitString(month){  
   if(month <10)return "0" + month;
   else return month + "";
@@ -51,16 +65,14 @@ function generateTripHtml(parent){
 
   $.ajax({
     url:calendarRequest,
-	dataType:"json",
-	//async:false,
-	
+	dataType:"json",	
     success:function(response){
 	  
       var tripsHtml = "";
       for(var i=0;i<response.data.items.length;i++) {
 	    var calendarItem = response.data.items[i]
 	    tripsHtml=tripsHtml+"<h2>"+calendarItem.title+"</h2>";
-	    tripsHtml=tripsHtml+"<p>Date(s): "+toVisibleDateRange(new Date(calendarItem.when[0].start), new Date(calendarItem.when[0].end))+"</p>";	  
+	    tripsHtml=tripsHtml+"<p>Date(s): "+toVisibleDateRange(parseISO8601DateInLocalTZ(calendarItem.when[0].start), parseISO8601DateInLocalTZ(calendarItem.when[0].end))+"</p>";	  
 	    tripsHtml=tripsHtml+"<p>"+replaceCarriageReturnsWithBR(calendarItem.details)+"</p>";	  
 	    if(calendarItem.location)tripsHtml = tripsHtml+"<a target='_blank' href='http://maps.google.com/maps?q="+calendarItem.location+"'>Map</a>"
 
