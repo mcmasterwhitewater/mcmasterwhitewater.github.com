@@ -1625,3 +1625,21 @@ Gallery styles
 	text-decoration: underline;
 	cursor: pointer;
 }
+
+.pwi_pager{
+	clear: both;
+}
+.pwi_prevpage, .pwi_nextpage, .pwi_pager_page, .pwi_pager_current{
+	float: left;
+	margin: 5px;
+
+}
+.link{
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.pwi_pager_current{
+	text-decoration: none;
+	font-weight: bold;
+} 
