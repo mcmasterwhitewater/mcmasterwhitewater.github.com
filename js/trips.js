@@ -49,6 +49,7 @@ function generateTripHtml(parent){
 
   $.ajax({
     url:"https://www.google.com/calendar/feeds/fp364lokq7fjtbqvesb2b7fgnc%40group.calendar.google.com/public/full?alt=jsonc&orderby=starttime&singleevents=true&sortorder=a&start-min="+startSearchDate+"&start-max="+endSearchDate,
+    dataType:"json",
     success:function(response){
       var tripsHtml = "";
       for(var i=0;i<response.data.items.length;i++) {

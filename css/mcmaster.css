@@ -1603,3 +1603,25 @@ padding-left:20px;
 .clearFloat {
   clear : both;
 }
+
+/**
+Gallery styles
+**/
+.pwi_album{
+	float: left;
+	margin: 1em;
+	text-align: center;
+	color: #000000;
+	cursor: pointer;
+}
+.pwi_photo{
+	float: left;
+	margin: 1em;
+	text-align: center;
+	border: 0px dotted white;
+}
+
+.pwi_album_backlink{
+	text-decoration: underline;
+	cursor: pointer;
+}
