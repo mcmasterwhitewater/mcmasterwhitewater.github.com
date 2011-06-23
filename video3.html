@@ -5,7 +5,9 @@ is_page: true
 ---
 <link   href="js/jquery.fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css"/>
 <script src="js/jquery.fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+<script src="js/jcarousellite_1.0.1.pack.js" type="text/javascript"></script>
 <a href="http://www.youtube.com/watch?v=qEEyCPwuyBQ" class="more">Play</a>
+<div id="videoPlaylists"/>
 <script>
 $("a.more").click(function() {
 	               //alert(this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'));
@@ -23,5 +25,19 @@ $("a.more").click(function() {
                   });
                  return false;
 
-            }); 
-</script>            
+            }); 		
+$('#videoPlaylists').append($('<div id="id1" class="pwi_container"><button id="prev1"></button><ul><li>1</li><li>2</li><li>3</li><li>4</li></ul><button id="next1"></button></div>'));
+$('#videoPlaylists').append($('<div id="id2" class="pwi_container"><button id="prev2"></button><ul><li>a</li><li>b</li><li>c</li><li>d</li></ul><button id="next2"></button></div>'));
+
+$(document).ready(
+$(function() {
+    $("#id1").jCarouselLite({
+    btnNext: "#next1",
+    btnPrev: "#prev1"
+    });
+	$("#id2").jCarouselLite({
+    btnNext: "#next2",
+    btnPrev: "#prev2"
+    });
+})); 
+</script>       
