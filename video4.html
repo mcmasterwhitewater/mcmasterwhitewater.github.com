@@ -35,10 +35,10 @@ is_page: true
 			var videoId = video.media$group.yt$videoid.$t;			
 			var videoUrl = "http://www.youtube.com/v/"+videoId;
 			
-			videoThumbHtml = videoThumbHtml + '<li><a href="#" onclick="showVideo(\''+videoUrl+'\')"><img src="'+thumbNail.url+'"/></a></li>';
+			videoThumbHtml = videoThumbHtml + '<li><a href="#" onclick="showVideo(\''+videoUrl+'\')"><img src="'+thumbNail.url+'"/><span>'+videoTitle+'</span></a></li>';
 			
 		  }	
-          $('#videoPlaylists').append($('<span>'+playListTitle+'</span><div id="carousele'+playListId+'"><button id="prev'+playListId+'">&lt;&lt;</button><ul>'+videoThumbHtml+'</ul><button id="next'+playListId+'">&gt;&gt;</button><div/>'));		  
+          $('#videoPlaylists').append($('<span class="">'+playListTitle+'</span><div id="carousele'+playListId+'" class="carousele"><button id="prev'+playListId+'">&lt;&lt;</button><ul>'+videoThumbHtml+'</ul><button id="next'+playListId+'">&gt;&gt;</button></div>'));		  
 		 
 		  $("#carousele"+playListId).jCarouselLite({
              btnNext: "#next"+playListId,
@@ -49,8 +49,8 @@ is_page: true
 		}	
 //load playlists
 $.ajax({
-  url: "https://gdata.youtube.com/feeds/api/users/mcmasterwhitewater/playlists?v=2&alt=json&fields=entry(title,yt:playlistId)",
-  dataType: 'json',
+  url: "https://gdata.youtube.com/feeds/api/users/mcmasterwhitewater/playlists?v=2&alt=json-in-script&fields=entry(title,yt:playlistId)",
+  dataType: 'jsonp',
   success: function(playListsJsonData){    
     for(var i=0, playLists=playListsJsonData.feed.entry, numOfPlayLists = playLists.length;i<numOfPlayLists;i++){
 	  var playList = playLists[i];
@@ -65,8 +65,8 @@ $.ajax({
 	  }
 	  
 	  $.ajax({
-	    url: "http://gdata.youtube.com/feeds/api/playlists/"+playListId+"?v=2&fields=entry(title,media:group(media:thumbnail,yt:videoid))&alt=json",
-		dataType: 'json',
+	    url: "http://gdata.youtube.com/feeds/api/playlists/"+playListId+"?v=2&fields=entry(title,media:group(media:thumbnail,yt:videoid))&alt=json-in-script",
+		dataType: 'jsonp',
 		success: $.proxy(playListKeyData.handler, playListKeyData)
 	   });
 	  
