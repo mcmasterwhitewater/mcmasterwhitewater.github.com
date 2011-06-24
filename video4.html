@@ -35,7 +35,7 @@ is_page: true
 			var videoId = video.media$group.yt$videoid.$t;			
 			var videoUrl = "http://www.youtube.com/v/"+videoId;
 			
-			videoThumbHtml = videoThumbHtml + '<li><a href="#" onclick="showVideo(\''+videoUrl+'\')"><img src="'+thumbNail.url+'"/><span>'+videoTitle+'</span></a></li>';
+			videoThumbHtml = videoThumbHtml + '<li><a href="#" onclick="showVideo(\''+videoUrl+'\')"><img src="'+thumbNail.url+'" height="'+thumbNail.height+'" width="'+thumbNail.width+'"/><!--span>'+videoTitle+'</span--></a></li>';
 			
 		  }	
           $('#videoPlaylists').append($('<span class="">'+playListTitle+'</span><div id="carousele'+playListId+'" class="carousele"><button id="prev'+playListId+'">&lt;&lt;</button><ul>'+videoThumbHtml+'</ul><button id="next'+playListId+'">&gt;&gt;</button></div>'));		  
