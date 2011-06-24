@@ -26,21 +26,7 @@ is_page: true
      });
   }
 	
-//load playlists
-
-$.ajax({
-  url: "https://gdata.youtube.com/feeds/api/users/mcmasterwhitewater/playlists?v=2&alt=json&fields=entry(title,yt:playlistId)",
-  dataType: 'json',
-  success: function(playListsJsonData){    
-    for(var i=0, playLists=playListsJsonData.feed.entry, numOfPlayLists = playLists.length;i<numOfPlayLists;i++){
-	  var playList = playLists[i];
-	  var playListTitle = playList.title.$t;
-	  var playListId=playList.yt$playlistId.$t;
-	  
-	  $.ajax({
-	    url: "http://gdata.youtube.com/feeds/api/playlists/"+playListId+"?v=2&fields=entry(title,media:group(media:thumbnail,yt:videoid))&alt=json",
-		dataType: 'json',
-		success: function(playListJsonData){    
+  function onPlayListLoaded(playListJsonData, playListId, playListTitle){    
 		  var videoThumbHtml = '';
 		  for(var j=0, videos=playListJsonData.feed.entry, numOfVideos = videos.length;j<numOfVideos;j++){
 		    var video=videos[j];
@@ -60,7 +46,28 @@ $.ajax({
           });
 		  
 		  
+		}	
+//load playlists
+$.ajax({
+  url: "https://gdata.youtube.com/feeds/api/users/mcmasterwhitewater/playlists?v=2&alt=json&fields=entry(title,yt:playlistId)",
+  dataType: 'json',
+  success: function(playListsJsonData){    
+    for(var i=0, playLists=playListsJsonData.feed.entry, numOfPlayLists = playLists.length;i<numOfPlayLists;i++){
+	  var playList = playLists[i];
+	  var playListTitle = playList.title.$t;
+	  var playListId=playList.yt$playlistId.$t;
+	  var playListKeyData = {
+	    plId: playListId,
+		plTitle: playListTitle,
+		handler: function(playListJsonData){		  
+		  onPlayListLoaded(playListJsonData, this.plId, this.plTitle);
 		}
+	  }
+	  
+	  $.ajax({
+	    url: "http://gdata.youtube.com/feeds/api/playlists/"+playListId+"?v=2&fields=entry(title,media:group(media:thumbnail,yt:videoid))&alt=json",
+		dataType: 'json',
+		success: $.proxy(playListKeyData.handler, playListKeyData)
 	   });
 	  
 	}
