@@ -26,7 +26,7 @@ is_page: true
      });
   }
 	
-  function onPlayListLoaded(playListJsonData, playListId, playListTitle){    
+  function onPlayListLoaded(playListJsonData, playListId, playListTitle, updated){    
 		  var videoThumbHtml = '';
 		  for(var j=0, videos=playListJsonData.feed.entry, numOfVideos = videos.length;j<numOfVideos;j++){
 		    var video=videos[j];
@@ -38,34 +38,37 @@ is_page: true
 			videoThumbHtml = videoThumbHtml + '<li><a href="#" onclick="showVideo(\''+videoUrl+'\')"><img src="'+thumbNail.url+'" height="'+thumbNail.height+'" width="'+thumbNail.width+'"/><!--span>'+videoTitle+'</span--></a></li>';
 			
 		  }	
-          $('#videoPlaylists').append($('<span class="">'+playListTitle+'</span><div id="carousele'+playListId+'" class="carousele"><button id="prev'+playListId+'">&lt;&lt;</button><ul>'+videoThumbHtml+'</ul><button id="next'+playListId+'">&gt;&gt;</button></div>'));		  
+          $('#videoPlaylists').append($('<span class="">'+playListTitle+"(last updated: "+updated+")"+'</span><div id="carousele'+playListId+'" class="carousele"><button id="prev'+playListId+'">&lt;&lt;</button><ul>'+videoThumbHtml+'</ul><button id="next'+playListId+'">&gt;&gt;</button></div>'));		  
 		 
 		  $("#carousele"+playListId).jCarouselLite({
              btnNext: "#next"+playListId,
              btnPrev: "#prev"+playListId
+			 
           });
 		  
 		  
 		}	
 //load playlists
 $.ajax({
-  url: "https://gdata.youtube.com/feeds/api/users/mcmasterwhitewater/playlists?v=2&alt=json-in-script&fields=entry(title,yt:playlistId)",
+  url: "https://gdata.youtube.com/feeds/api/users/mcmasterwhitewater/playlists?v=2&orderby=updated&alt=json-in-script&fields=entry(title,yt:playlistId,updated)",
   dataType: 'jsonp',
   success: function(playListsJsonData){    
     for(var i=0, playLists=playListsJsonData.feed.entry, numOfPlayLists = playLists.length;i<numOfPlayLists;i++){
 	  var playList = playLists[i];
 	  var playListTitle = playList.title.$t;
 	  var playListId=playList.yt$playlistId.$t;
+	  
 	  var playListKeyData = {
 	    plId: playListId,
 		plTitle: playListTitle,
+		updated: parseISO8601DateInLocalTZ(playList.updated.$t),
 		handler: function(playListJsonData){		  
-		  onPlayListLoaded(playListJsonData, this.plId, this.plTitle);
+		  onPlayListLoaded(playListJsonData, this.plId, this.plTitle, this.updated);
 		}
 	  }
 	  
 	  $.ajax({
-	    url: "http://gdata.youtube.com/feeds/api/playlists/"+playListId+"?v=2&fields=entry(title,media:group(media:thumbnail,yt:videoid))&alt=json-in-script",
+	    url: "http://gdata.youtube.com/feeds/api/playlists/"+playListId+"?v=2&orderby=published&fields=entry(title,media:group(media:thumbnail,yt:videoid))&alt=json-in-script",
 		dataType: 'jsonp',
 		success: $.proxy(playListKeyData.handler, playListKeyData)
 	   });
