@@ -3,14 +3,80 @@ layout: page
 title: Video
 is_page: true
 ---
+<link   href="js/jquery.fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css"/>
+<script src="js/jquery.fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+<script src="js/jcarousellite_1.0.1.pack.js" type="text/javascript"></script>
 
+<div id="videoPlaylists">
+</div>
 
-<!--script src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/youtube.xml&up_channel=mcmasterwhitewater&synd=open&w=320&h=390&title=&border=%23ffffff%7C3px%2C1px+solid+%23999999&output=js"></script-->
 <script>
-(function(){
-var css='<style>table.gadget{background-position:0%;background:transparent none;border-collapse:collapse;border:0;clear:none;float:none;font-family:arial,sans-serif;font-style:normal;font-variant:normal;height:auto;letter-spacing:normal;line-height:normal;margin:0;padding:0;text-indent:0;text-transform:none;top:auto;vertical-align:middle;white-space:normal;width:auto;word-spacing:normal;}table.gadget span.title a:hover,table.gadget span.title a:visited,table.gadget span.title a:active,table.gadget span.title{font-size:12px;color:#0000cc}table.gadget span.powered a:hover,table.gadget span.powered a:visited,table.gadget span.powered a:active,table.gadget span.powered{font-size:10px;color:#0000cc}</style>';
-var html='\x3ctable class\x3d\x22gadget\x22 cellspacing\x3d0 cellpadding\x3d0 width\x3d320\x3e\x3ctr\x3e\x3c/tr\x3e\x3ctr\x3e\x3ctd colspan\x3d\x222\x22\x3e\x3c/td\x3e\x3c/tr\x3e\x3ctr\x3e\x3ctd colspan\x3d2\x3e\x3cdiv style\x3d\x22background:white;padding:3px; border:0px solid #999999;\x22\x3e\x3ciframe src\x3d\x22http://www-open-opensocial.googleusercontent.com/gadgets/ifr?url\x3dhttp%3A%2F%2Fwww.google.com%2Fig%2Fmodules%2Fyoutube.xml\x26container\x3dopen\x26view\x3dhome\x26lang\x3dall\x26country\x3dALL\x26debug\x3d0\x26nocache\x3d0\x26sanitize\x3d0\x26v\x3d2f386db278233e29\x26source\x3d__LOCATION__\x26parent\x3d__LOCATION__\x26libs\x3dcore%3Acore.io#up_channel\x3dmcmasterwhitewater\x26st\x3d%25st%25\x22 width\x3d320 height\x3d390 style\x3d\x22display:block;\x22 frameborder\x3d0 scrolling\x3d\x22no\x22\x3e\x3c/iframe\x3e\x3c/div\x3e\x3c/td\x3e\x3c/tr\x3e\x3ctr\x3e\x3ctd style\x3d\x22text-align:left;vertical-align:middle;height:28px;\x22\x3e\x3ca href\x3d\x22http://fusion.google.com/ig/add?synd\x3dopen\x26source\x3dggyp\x26moduleurl\x3dhttp://www.google.com/ig/modules/youtube.xml\x22 target\x3d\x22_top\x22\x3e\x3cimg style\x3d\x22border:0;\x22 src\x3d\x22http://www.gmodules.com/ig/images/plus_google.gif\x22\x3e\x3c/a\x3e\x3c/td\x3e\x3ctd style\x3d\x22text-align:right;vertical-align:middle;height:28px;\x22\x3e\x3cspan class\x3d\x22powered\x22\x3e\x3ca href\x3d\x22http://www.google.com/webmasters/gadgets.html\x22 target\x3d\x22_top\x22\x3eGadgets\x3c/a\x3e powered by Google\x3c/span\x3e\x3c/td\x3e\x3c/tr\x3e\x3c/table\x3e';
-html=html.replace(/__LOCATION__/g, encodeURIComponent(location.href));
-document.write(css+html);
-})();
+  function showVideo( uri){    
+    $.fancybox({
+	  
+	  'showCloseButton'     : false,
+      'padding'             : 0,
+      'autoScale'           : false,
+      'transitionIn'        : 'none',
+      'transitionOut'       : 'none',
+      //'title'               : title,
+      'width'               : 680,
+      'height'              : 495,
+      'href'                : uri,
+      'type'                : 'swf',    
+      'swf'                 : {'allowfullscreen':'true'} // <-- flashvars here
+     });
+  }
+	
+  function onPlayListLoaded(playListJsonData, playListId, playListTitle, updated){    
+		  var videoThumbHtml = '';
+		  for(var j=0, videos=playListJsonData.feed.entry, numOfVideos = videos.length;j<numOfVideos;j++){
+		    var video=videos[j];
+		    var videoTitle = video.title.$t;
+			var thumbNail = video.media$group.media$thumbnail[0];
+			var videoId = video.media$group.yt$videoid.$t;			
+			var videoUrl = "http://www.youtube.com/v/"+videoId;
+			
+			videoThumbHtml = videoThumbHtml + '<li><a href="#" onclick="showVideo(\''+videoUrl+'\')"><div><img src="'+thumbNail.url+'" height="'+thumbNail.height+'" width="'+thumbNail.width+'"/><br/><span style="text-align: center;display:inline-block;width:'+thumbNail.width+'px;">'+videoTitle+'</span></div></a></li>';
+			
+		  }	
+          $('#videoPlaylists').append($('<span>'+playListTitle+"(last updated: "+updated+")"+'</span><div><button style="float:left;position:relative;" id="prev'+playListId+'">&lt;&lt;</button><button style="float:right;position:relative;" id="next'+playListId+'">&gt;&gt;</button><div id="carousele'+playListId+'" class="carousele"><ul>'+videoThumbHtml+'</ul></div></div>'));		  
+		 
+		  $("#carousele"+playListId).jCarouselLite({
+             btnNext: "#next"+playListId,
+             btnPrev: "#prev"+playListId
+			 
+          });
+		  
+		  
+		}	
+//load playlists
+$.ajax({
+  url: "https://gdata.youtube.com/feeds/api/users/mcmasterwhitewater/playlists?v=2&orderby=updated&alt=json-in-script&fields=entry(title,yt:playlistId,updated)",
+  dataType: 'jsonp',
+  success: function(playListsJsonData){    
+    for(var i=0, playLists=playListsJsonData.feed.entry, numOfPlayLists = playLists.length;i<numOfPlayLists;i++){
+	  var playList = playLists[i];
+	  var playListTitle = playList.title.$t;
+	  var playListId=playList.yt$playlistId.$t;
+	  
+	  var playListKeyData = {
+	    plId: playListId,
+		plTitle: playListTitle,
+		updated: parseISO8601DateInLocalTZ(playList.updated.$t),
+		handler: function(playListJsonData){		  
+		  onPlayListLoaded(playListJsonData, this.plId, this.plTitle, this.updated);
+		}
+	  }
+	  
+	  $.ajax({
+	    url: "http://gdata.youtube.com/feeds/api/playlists/"+playListId+"?v=2&orderby=published&fields=entry(title,media:group(media:thumbnail,yt:videoid))&alt=json-in-script",
+		dataType: 'jsonp',
+		success: $.proxy(playListKeyData.handler, playListKeyData)
+	   });
+	  
+	}
+  }
+});			
+
 </script>
