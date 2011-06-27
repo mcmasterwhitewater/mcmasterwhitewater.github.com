@@ -1,0 +1,135 @@
+<html>
+<script type="text/javascript" src="js/jquery.js"></script>
+
+		
+<script type="text/javascript" src="js/utils.js"></script>
+<script src="js/jcarousellite_1.0.1.pack.js" type="text/javascript"></script>
+
+
+<script>
+$(document).ready(function() {
+$(".widget_style").jCarouselLite({
+btnPrev: ".previous",
+btnNext: ".next",
+/*this makes it a true carousel rather than a slideshow*/
+circular: true
+});
+});
+</script>
+
+<style>
+/*
+
+.widget {
+width:419px;
+}
+
+
+
+.widget .previous{
+float:left;
+display:block;
+background:url(images/prev.jpg) bottom;
+width:34px;
+height:34px;
+margin-top:28px;
+margin-right:2px;
+}
+
+
+
+.widget .next{
+float:right;
+display:block;
+background:url(images/next.jpg) bottom;
+width:34px;
+height:34px;
+margin-top:-71px;
+}
+
+
+
+.widget_style {
+text-align:left;
+padding:0px 0px 0px 0px;
+}
+
+.widget_style ul {
+margin:0;
+padding:0;
+}
+
+
+
+.widget_style li {
+height:89px;
+width:109px;
+background:url(images/imgbg.jpg) left top no-repeat;
+list-style:none;
+margin:0;
+padding:0px 0px 0px 10px;
+}
+
+*/
+
+.next {
+float:left;
+position:relative;
+}
+.previous{
+float:left;
+position:relative;
+}
+.clear{
+clear:both;
+}
+.widget_style{
+float:left;
+position:relative;
+}
+
+.widget_style img {
+width:90px;
+height:70px;
+}
+</style>
+<body>
+<span>1234242345345353</span>
+<div class="widget">
+
+<button class="previous"></button>
+
+<div class="widget_style">
+<ul>
+<li><img src="http://i.ytimg.com/vi/LUngaBMNUzs/default.jpg" alt="image 1"></li>
+<li><img src="http://i.ytimg.com/vi/sQz1WA3QHi8/default.jpg" alt="image 2"></li>
+<li><img src="http://i.ytimg.com/vi/r-AoeER_hhk/default.jpg" alt="image 3"></li>
+<li><img src="http://i.ytimg.com/vi/rum-GcTsop0/default.jpg" alt="image 4"></li>
+</ul>
+</div>
+
+<button class="next"></button>
+
+</div>
+<div class="clear">
+</div>
+<span>1234242345345353</span>
+<div class="widget">
+
+<button class="previous"></button>
+
+<div class="widget_style">
+<ul>
+<li><img src="http://i.ytimg.com/vi/LUngaBMNUzs/default.jpg" alt="image 1"></li>
+<li><img src="http://i.ytimg.com/vi/sQz1WA3QHi8/default.jpg" alt="image 2"></li>
+<li><img src="http://i.ytimg.com/vi/r-AoeER_hhk/default.jpg" alt="image 3"></li>
+<li><img src="http://i.ytimg.com/vi/rum-GcTsop0/default.jpg" alt="image 4"></li>
+</ul>
+</div>
+
+<button class="next"></button>
+
+</div>
+
+</body>
+</html>
