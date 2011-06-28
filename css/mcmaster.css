@@ -1643,3 +1643,34 @@ Gallery styles
 	text-decoration: none;
 	font-weight: bold;
 } 
+/**
+video carousele
+*/
+.carousele_next {
+  float:left;
+  position:relative;
+}
+.carousele_previous{
+  float:left;
+  position:relative;
+}
+.clear{
+  clear:both;
+}
+.carousele_strip{
+  float:left;
+  position:relative;
+}
+.carausele_img{
+  padding:0px 0px 5px 5px;
+  width: 120px;
+  height: 90px;
+}
+.carausele_img_text{
+  padding:0px 0px 5px 5px;
+  text-align: center;
+  display:inline-block;
+  width:120px;
+  height: 3.6em;
+  overflow: hidden;
+}
