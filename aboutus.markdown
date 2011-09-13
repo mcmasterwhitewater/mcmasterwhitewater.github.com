@@ -21,19 +21,23 @@ In 2006  Robbie Gibb, Jeff Masuda, Steve Bickerton, Laura Duncan and Stacey Gray
 - Facilitates peer trips among its members
 
 <br/>
-## McMaster Whitewater exec 2010/2011
+## McMaster Whitewater exec 2011/2012
 
-Greg Baltrop - Club President 
+Joel Roeleveld - Club Co President 
+
+Mike Gordon - Club Co President
 
 Brad Statham - Vice President
 
-Laura Duncan - Lead Instructor
+Laura Duncan
 
-Geoff Boyd - Assistant Instructor
+Geoff Boyd
 
-Scott Parker - Innocent Victim
+Leigh Anne Roddick
 
-Leigh Ann Roddick - Perpetrator of Heinous Crimes
+Jon Day 
+
+Tamara Poropat
 
 ## Past exec
 
