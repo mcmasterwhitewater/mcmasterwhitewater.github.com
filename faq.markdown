@@ -12,11 +12,11 @@ Click on our [Courses](courses.html) link to find out what we are currently offe
  
 ### 2. What will I learn?
  
-·	In the pool: Basic strokes, bracing, turns, rolling, rescues
+ï¿½	In the pool: Basic strokes, bracing, turns, rolling, rescues
  
-·	In the class: River theory
+ï¿½	In the class: River theory
  
-·	On the river: Ferrying, eddy turns
+ï¿½	On the river: Ferrying, eddy turns, basic river running skills
  
 ### 3. What if I already know how to kayak?
 
@@ -40,13 +40,13 @@ Every weekend. Three offical club trips in the summer but if you want to go out,
  
 ### 8. How much does it Cost?
  
-·	You have to join the Mac Outdoor Club for $10
+ï¿½	You have to join the Mac Outdoor Club for $10
  
-·	For only $95 you get 10 hours of lessons PLUS free access to open pool sessions for the whole year!
+ï¿½	For only $95 you get 8 hours of lessons PLUS free access to open pool sessions for the whole year!
  
-·	Roll clinic is $35
+ï¿½	Roll clinic is $35
  
-·	You also get cheap access to club equipment for summer trips
+ï¿½	You also get cheap access to club equipment for summer trips
  
 ### 9. I have More Questions
  
