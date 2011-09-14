@@ -5,11 +5,9 @@ is_page: true
 ---
 
  
-[Trips schedule for 2011 is posted. Register while you still can.](trips.html)
+Welcome to McMaster Whitewater.  
  
-Pool sessions are over for the season. They will  restart in the fall.
-
-If you are just starting or contemplating whether this addictive past time is for you, we suggest waiting for warmer weather. [Palmerfest](http://paddlerco-op.com/content/make-reservation-0), is a great opportunity to get paddling instruction on the river.  The club runs [beginner trips](http://www2.mcmasterwhitewater.ca/trips.html) in the summer months. More information coming soon about these. Also check out the [courses](courses.html) we offer in the fall and winter. 
+Pool sessions are going to be starting on October 7th.
 
 If you are an intermediate or experienced paddler, navigate to the [forum section](http://mcmasterwhitewater.ca/forum) to find out what the current members are up to. Remember to be safe out there.
  
