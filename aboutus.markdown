@@ -20,7 +20,8 @@ In 2006  Robbie Gibb, Jeff Masuda, Steve Bickerton, Laura Duncan and Stacey Gray
 - Runs pool sessions and beginner courses
 - Facilitates peer trips among its members
 
-<br/>
+
+
 ## McMaster Whitewater exec 2011/2012
 
 Joel Roeleveld - Club Co President 
@@ -41,4 +42,4 @@ Tamara Poropat
 
 ## Past exec
 
-Robertson Gibb, Jeff Masuda, Steven Bickerton, Mark Evans, Stacey Gray
+Greg Barltrop, Robertson Gibb, Jeff Masuda, Steven Bickerton, Mark Evans, Stacey Gray
