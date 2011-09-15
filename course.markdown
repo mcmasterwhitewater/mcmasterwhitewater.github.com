@@ -10,15 +10,15 @@ to a roll clinic for intermediate kayakers who want to perfect their roll. Sign 
 Two Beginner Courses are Currently Being Offered:
 
 <p>
-<a href="http://www-athrec.mcmaster.ca/outdoor/iframe/kayaking_introduction.htm" target="_blank">Fall 2011 November 12-13, 19-20 12-2pm</a> 
+<a href="https://reconline.mcmaster.ca/econnect/Activities/ActivitiesAdvSearch.asp?AdvSearch=true&cbarcode=14610" target="_blank">Fall 2011 November 12-13, 19-20 12-2pm</a> 
 <br/>
-<a href='http://reconline.mcmaster.ca/econnect/Activities/ActivitiesDetails.asp?ProcessWait=N&amp;aid=1134' target="_blank">Winter 2012: March 10-11, March 17-18  12-2pm</a> 
+<a href='https://reconline.mcmaster.ca/econnect/Activities/ActivitiesAdvSearch.asp?AdvSearch=true&cbarcode=14611' target="_blank">Winter 2012: March 10-11, March 17-18  12-2pm</a> 
 </p>
 
 One Roll Clinic is Currently Being Offered:
  
 <p>
-<a href="http://www-athrec.mcmaster.ca/outdoor/iframe/kayaking_rolling.htm" target="_blank">March 24-25, 2012</a> 
+<a href="https://reconline.mcmaster.ca/econnect/Activities/ActivitiesAdvSearch.asp?AdvSearch=true&cbarcode=14612" target="_blank">March 24-25, 2012</a> 
 </p>
 
 Open sessions are held on Fridays at 8:30-9:30pm. Open Sessions will start October 7th, 2011 and run until April 1st, 2012. Online registration is not available for the open sessions, please visit the pool in the Ivor Wynne building during the open session time to register. The cost for the full year is $50.  Don't know if kayaking will be for you?  Come out and enjoy the first pool session for free and check things out.
