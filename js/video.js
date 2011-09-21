@@ -41,7 +41,7 @@ function playVideo( uri){
   function loadVideoPlaylists(divToPopulate){
     //load list of playlists
     $.ajax({
-      url: "https://gdata.youtube.com/feeds/api/users/macwhitewater/playlists?v=2&orderby=updated&alt=json-in-script&fields=entry(title,yt:playlistId,updated)",
+      url: "https://gdata.youtube.com/feeds/api/users/mcmasterwhitewater/playlists?v=2&orderby=updated&alt=json-in-script&fields=entry(title,yt:playlistId,updated)",
       dataType: 'jsonp',
       success: function(playListsJsonData){    
         for(var i=0, playLists=playListsJsonData.feed.entry, numOfPlayLists = playLists.length;i<numOfPlayLists;i++){
