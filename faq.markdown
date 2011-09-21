@@ -8,7 +8,7 @@ is_page: true
  
 ### 1. When are the courses?
  
-Click on our [Courses](courses.html) link to find out what we are currently offering.
+Click on our [Courses](course.html) link to find out what we are currently offering.
  
 ### 2. What will I learn?
  
@@ -24,7 +24,7 @@ Any prior boating experience will help. Yet, whitewater kayaking is different. T
  
 ### 4. How do I Sign Up? 
  
-Click on the [Courses](courses.html) link and follow the instructions, or go to the David Bradley Athletic Center and sign-up there.
+Click on the [Courses](course.html) link and follow the instructions, or go to the David Bradley Athletic Center and sign-up there.
  
 ### 5. Is it Safe?
  
