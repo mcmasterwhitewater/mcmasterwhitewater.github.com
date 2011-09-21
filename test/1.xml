@@ -1,4 +1,166 @@
+<div class="gb_item_detail_wrapper ">
+
+<div class="gb_ad_globalid">
+
+ID : BW7884154</div>
+<h2>2010 All Star Elite
+</h2>
+
+<div class="gb_item_heading_wrapper">
+
+<div class="gb_ad_posted_details">
+
+<img
+src="http://boatwerks.net/components/com_listbingo/templates/default/images/user.png"
+alt="User" /> 
+<a href=/component/community/4056-k9v/profile>K9V</a>  
+	&nbsp;&nbsp;&nbsp;&nbsp;<img
+src="http://boatwerks.net/components/com_listbingo/templates/default/images/calender.png"
+alt="Posted Date" /> Tue, Sep 20 2011&nbsp;&nbsp;&nbsp;&nbsp;
+<img
+src="http://boatwerks.net/components/com_listbingo/templates/default/images/hit.png"
+alt="Hit Counter" /> 60	
+	
+</div>
+
+<div class="gb_ad_addons">
+<ul class="gb_popup_action">
+<li><img
+src="http://boatwerks.net/administrator/components/com_listbingo/addons/profiles/images/replyemail_jomsocial.png" /> <a
+onclick="joms.messaging.loadComposeWindow('4056')" href="javascript:void(0);"> <span>Reply</span> </a></li>
+<li><img
+src="http://boatwerks.net/components/com_listbingo/templates/default/images/post-ad.png" />
+<a rel="nofollow" href="/classifieds/new">Post</a>	
+</li>
+
+</ul>
+</div>
+<br class="clear" />
+</div>
+
+<div class="gb_detail_section">
+<div class="gb_detail_right">
+<div class="imageSlide"><script src="http://boatwerks.net/administrator/components/com_listbingo/addons/gallery/js/nslider/noobslide/noobslide.js"></script><script src="http://boatwerks.net/administrator/components/com_listbingo/addons/gallery/js/nslider/slimbox/slimbox.js"></script>					<style>
+#box
+{
+	width:298px;
+	height:223px;
+}
+
+.mask {
+height:223px;
+overflow:hidden;
+position:relative;
+width:298px;
+}					
+</style>
+<script>
+				//<!--
+					window.addEvent('domready',function(){
+						
+						
+						var hs2 = new noobSlide({
+							box: $('box'),
+							items: $ES('span','box'),
+							interval: 3000,
+							size:298,
+							fxOptions: {
+								duration: 1000,
+							
+								wait: false
+							},
+							buttons: {
+								previous: $('prev1'),
+								
+								next: $('next1')
+							}
+						});
+						
+					});
+					//-->
+</script>
+
+<div class="myGallery">
+<div class="mask">
+<div id="box">
+<span>
+<a href="http://boatwerks.net//images/classifieds/843/LB60683lthm.jpg" rel="lightbox-albumgallery" >
+<img width="298" src="http://boatwerks.net//images/classifieds/843/LB60683thm.jpg" class="full" />
+</a>
+</span>
+					
+<span>
+<a href="http://boatwerks.net//images/classifieds/843/LB4014lthm.jpg" rel="lightbox-albumgallery" >
+<img width="298" src="http://boatwerks.net//images/classifieds/843/LB4014thm.jpg" class="full" />
+</a>
+</span>
+
+</div>
+</div>
+<div class="buttonstage">
+<p class="buttons"><span id="prev1">&laquo; Previous</span> 
+<span id="next1">Next &raquo;</span></p>
+</div>
+
+</div>
+					
+</div><div class="clear"></div> 
 
 
+</div>
 
 
+<div class="gb_listing_normal_attributes">
+<ul>
+<li>
+<div class="gb_ad_heading"><strong>Price</strong></div>
+<div class="gb_ad_heading_details">$ 600.00 CAD</div>
+<div class="clear"></div>
+</li>
+<li>
+
+<div class="gb_ad_heading"><strong>Location</strong>:</div>	
+	
+<div class="gb_ad_heading_details">
+
+<strong>Central Ontario</strong><br />
+
+<br/>Canada	</div>
+
+<div class="clear"></div>
+
+</li>
+
+<li>
+<div class="gb_ad_heading"><strong>City :</strong></div>
+<div class="gb_ad_heading_details">
+			
+			 Lindsay</div>
+
+<div class="clear"></div>
+
+</li>
+<li>
+<div class="gb_ad_heading"><strong>Province :</strong></div>
+<div class="gb_ad_heading_details">
+			
+			 Ontario</div>
+
+<div class="clear"></div>
+
+</li>
+</ul>
+
+<div class="description">
+<h3 class="description_title">Description</h3>
+<span class="sbody"> Good condition. Bought a larger boat.
+
+Email me if interested @ buckley_p(at)hotmail.com </span></div>
+</div>
+
+<br class="clear" />
+
+
+</div>
+
+</div>
