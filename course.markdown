@@ -48,7 +48,7 @@ Open sessions are The Friday night pool sessions are all done for the year, but 
  
 The club has a kayaks and skirts available for members (and those that are curious) that do not possess a boat.  You only need to bring a swimsuit and a towel.
  
-If you have any questions email mcmasterwhitewater@gmail.com 
+If you have any questions or you would like to sign up for a course please email mcmasterwhitewater@gmail.com 
  
 <div style='float:right;'>
 <br/>
