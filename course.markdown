@@ -7,9 +7,9 @@ is_page: true
 We offer several courses throughout the year. They range from a beginner course for those with little to no experience 
 to a roll clinic for intermediate kayakers who want to perfect their roll. Sign up on the McMaster Athletics Web site.  Once you have taken a beginnger course, the rest of the pool sessions for the year are FREE! 
  
-We also want to let you know about a few course that we are going to be running this summer and hope that you guys would join us to learn how to run some rapids.  Over the weekend we will work through different whitewater skills with all the students and help you to learn how to run some rapids.  It will give you a chance to work on your rolls in some whitewater, and even if you dont quite have your roll, no need to worry its all part of learning!
+We also want to let you know about a few course that we are going to be running this summer and hope that you guys would join us to learn how to run some rapids.  Over the weekend we will work through different whitewater skills with all the students and help you to learn how to run some rapids.  It will give you a chance to work on your rolls in some whitewater, and even if you dont quite have your roll, no need to worry its all part of learning!  We have a stong commitment to safety in our instruction and courses.  We also provide all the kayaking gear that you will be needing for the courses.
 
-So there are 3 courses over the course of the summer,
+So there are 3 courses over the course of the summer
 
 <b><i>Elora Gorge (Grand River, Elora, ON)</i></b>
 <br/>
@@ -44,14 +44,14 @@ Cost: $130*
 
 Hope you guys are intersted in joining us on a trip or two this summer.  Its a great time of learning and its always lots of fun!
 
-Open sessions are The Friday night pool sessions are all done for the year, but we will have them up and running again come September!
+- The Friday night pool sessions are all done for the year, but we will have them up and running again come September!
  
-The club has a kayaks and skirts available for members (and those that are curious) that do not possess a boat.  You only need to bring a swimsuit and a towel.
+- The club has a kayaks and skirts available for members (and those that are curious) that do not possess a boat.  You only need to bring a swimsuit and a towel.
  
 If you have any questions or you would like to sign up for a course please email mcmasterwhitewater@gmail.com 
  
 <div style='float:right;'>
 <br/>
-<p>See you on the river or in the pool,</p>
+<p>Hope to see you on the river or in the pool,</p>
 <i>McMaster Whitewater Exec</i>
 </div>
