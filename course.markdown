@@ -38,8 +38,9 @@ What: This is a great river down in Pennsylvania.  This river has a bunch of rap
 When: 10-12 August
 <br/>
 Cost: $130*
-
-* - The cost of the trips is based on gas price estimations.  If the cost of gas changes dramatically we might need to reevaluate the cost of the trip
+<br/>
+<br/>
+* <i>Note: The cost of the trips is based on gas price estimations.  If the cost of gas changes dramatically we might need to reevaluate the cost of the trip</i>
 
 Hope you guys are intersted in joining us on a trip or two this summer.  Its a great time of learning and its always lots of fun!
 
