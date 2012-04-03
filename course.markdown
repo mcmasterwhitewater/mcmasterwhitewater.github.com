@@ -7,21 +7,30 @@ is_page: true
 We offer several courses throughout the year. They range from a beginner course for those with little to no experience 
 to a roll clinic for intermediate kayakers who want to perfect their roll. Sign up on the McMaster Athletics Web site.  Once you have taken a beginnger course, the rest of the pool sessions for the year are FREE! 
  
-Two Beginner Courses are Currently Being Offered:
+We also want to let you know about a few course that we are going to be running this summer and hope that you guys would join us to learn how to run some rapids.  Over the weekend we will work through different whitewater skills with all the students and help you guys to learn how to run some rapids.  It will give you a chance to work on your rolls in some whitewater, and even if you dont quite have your roll, no need to worry its all part of learning!
 
-<p>
-<a href="https://reconline.mcmaster.ca/econnect/Activities/ActivitiesAdvSearch.asp?AdvSearch=true&cbarcode=14610" target="_blank">Fall 2011 November 12-13, 19-20 12-2pm</a> 
-<br/>
-<a href='https://reconline.mcmaster.ca/econnect/Activities/ActivitiesAdvSearch.asp?AdvSearch=true&cbarcode=14611' target="_blank">Winter 2012: March 10-11, March 17-18  12-2pm</a> 
-</p>
+So there are 3 courses over the course of the summer,
 
-One Roll Clinic is Currently Being Offered:
- 
-<p>
-<a href="https://reconline.mcmaster.ca/econnect/Activities/ActivitiesAdvSearch.asp?AdvSearch=true&cbarcode=14612" target="_blank">March 24-25, 2012</a> 
-</p>
+Elora Gorge (Grand River, Elora, ON)
+What: This is a really beautiful trip on some nice melo rapids up in Elora.  This is only a 1 day trip
+When: 9 June
+Cost: $60*
 
-Open sessions are held on Fridays at 8:30-9:30pm. Open Sessions will start October 7th, 2011 and run until April 1st, 2012. Online registration is not available for the open sessions, please visit the pool in the Ivor Wynne building during the open session time to register. The cost for the full year is $50.  Don't know if kayaking will be for you?  Come out and enjoy the first pool session for free and check things out.
+Madawaska River (Palmer Rapids, ON)
+What: We drive up and campout at Palmer Rapids on Friday night.  Saturday is spent paddling Palmer Rapids which is a series of 2 rapids that you can run multiple times, and is a great place to work on beginner skills. Sunday, we make out way a bit further down to paddle the rest of the Lower Mad.  Its a really fun day trip with a series of rapids that are lots of fun and a great spot to learn.  Dinner is provided on Saturday Night
+When: 13-15 July
+Cost: $130*
+
+Youghiogheny River (Lower Yough, Ohiopyle, Pennsylvania, US)
+What: This is a great river down in Pennsylvania.  This river has a bunch of rapids that are really great to learn on.  We will drive down on Friday evening and camp in Ohiopyle that night.  The next morning we will be paddling the top section of the river.  This is a loop with 4 or 5 rapids on in which are really good to work on skills.  Sunday we will run the rest of the river.  This is a beautiful paddle through a nice section of Southern Pennsylvania.  Dinner is provided Saturday Night
+When: 10-12 August
+Cost: $130*
+
+* - The cost of the trips is based on gas price estimations.  If the cost of gas changes dramatically we might need to reevaluate the cost of the trip
+
+Hope you guys are intersted in joining us on a trip or two this summer.  Its a great time of learning and its always lots of fun!
+
+Open sessions are The Friday night pool sessions are all done for the year, but we will have them up and running again come September!
  
 The club has a kayaks and skirts available for members (and those that are curious) that do not possess a boat.  You only need to bring a swimsuit and a towel.
  
