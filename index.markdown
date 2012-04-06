@@ -10,13 +10,15 @@ Welcome to McMaster Whitewater!
 
 We are a student run paddling club out of McMaster University in Hamilton, Ontario.  We seek to teach new paddlers basic skills needed, and encourage advanced boaters as they develop their skills in the sport.  Through various pool and river courses, we aim to effectively teach students and members of the community the skills that are needed to safely ennjoy the sport of whitewater kayaking.  We hope that you join us in the pool or on the river.  Lets paddle!
 
-We are happy to have all the students back, and had a great time seeing some new faces out at Clubsfest!  We hope that you will check us out.
+We are happy to have the nice weather here and are looking forward to getting out on the water again! 
 
 Pool sessions are done for the school term, but we will have them up and running come September.
 
 If you are intersted in taking a course with us this summer, check out the courses section of our website.  There is lots of fun to be had on the river this sumer so don't miss out.
 
-If you are an intermediate or experienced paddler, navigate to the [forum section](http://mcmasterwhitewater.ca/forum) to find out what the current members are up to. Remember to be safe out there.
+If you are an intermediate or experienced paddler, navigate to the [forum section](http://mcmasterwhitewater.ca/forum) to find out what the current members are up to.
+
+Remember to be safe out there.
  
 
 <!-- ++Rotating images++ -->
@@ -34,7 +36,7 @@ If you are an intermediate or experienced paddler, navigate to the [forum sectio
 </div>
 <br/>
 <div style='float:right;'>
-<p>See you on the river or in the pool,</p>
+<p>See you on the river,</p>
 <i>McMaster Whitewater Exec</i>
 </div>
 
