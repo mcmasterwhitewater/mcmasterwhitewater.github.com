@@ -12,9 +12,9 @@ We are a student run paddling club out of McMaster University in Hamilton, Ontar
 
 We are happy to have all the students back, and had a great time seeing some new faces out at Clubsfest!  We hope that you will check us out.
 
-Pool sessions are every Friday from 8.30pm - 9.30pm.
+Pool sessions are done for the school term, but we will have them up and running come September.
 
-We run office hours on Tuesday and Thursday From 1.30pm - 5.30 in IWC B101.  Come check us out, or if you have any questions feel free to stop by
+If you are intersted in taking a course with us this summer, check out the courses section of our website.  There is lots of fun to be had on the river this sumer so don't miss out.
 
 If you are an intermediate or experienced paddler, navigate to the [forum section](http://mcmasterwhitewater.ca/forum) to find out what the current members are up to. Remember to be safe out there.
  
