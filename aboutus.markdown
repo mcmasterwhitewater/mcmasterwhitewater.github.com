@@ -40,6 +40,8 @@ Jon Day
 
 Tamara Poropat
 
+Chantal Deketele
+
 ## Past exec
 
 Greg Barltrop, Robertson Gibb, Jeff Masuda, Steven Bickerton, Mark Evans, Stacey Gray
