@@ -42,6 +42,8 @@ Cost: $130*
 <br/>
 * <i>Note: The cost of the trips is based on gas price estimations.  If the cost of gas changes dramatically we might need to reevaluate the cost of the trip</i>
 
+[DOWNLOAD, FILL, SIGN and RETURN your WAIVER.](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0By5iTUP7UkcbNDE3NjYxYWQtZWU1MC00ZDBhLTk0NzktNjk3NjQ0OTYxZjYy&hl=en&authkey=CO7ot4cB)
+
 Hope you guys are intersted in joining us on a trip or two this summer.  Its a great time of learning and its always lots of fun!
 
 - The Friday night pool sessions are all done for the year, but we will have them up and running again come September!
