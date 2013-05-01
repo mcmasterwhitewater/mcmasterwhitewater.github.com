@@ -21,14 +21,16 @@ If you are an intermediate or experienced paddler, navigate to the [forum sectio
 Check us out on facebook at www.facebook.com/mcmaster.whitewater
 
 Remember to be safe out there!
- 
-<div id='pictureDiv' style='position:relative;margin:0 auto;height:400px;width:800px;'>
-</div>
+
 <br/>
 <div style='float:right;'>
 <p>See you on the river,</p>
 <i>McMaster Whitewater Exec</i>
 </div>
+
+<div id='pictureDiv' style='position:relative;margin:0 auto;height:400px;width:800px;'>
+</div>
+
 <!-- ++Rotating images++ -->
 
 <script src="js/jquery.js">
