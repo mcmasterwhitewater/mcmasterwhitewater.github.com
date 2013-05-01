@@ -22,10 +22,10 @@ Check us out on facebook at www.facebook.com/mcmaster.whitewater
 
 Remember to be safe out there!
 
-<br/>
+
 <p>See you on the river,</p>
-<i>McMaster Whitewater Exec</i>
-</div>
+</i>McMaster Whitewater Exec</i>
+
 
 <div id='pictureDiv' style='position:relative;margin:0 auto;height:400px;width:800px;'>
 </div>
