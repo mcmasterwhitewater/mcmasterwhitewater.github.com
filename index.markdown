@@ -24,6 +24,7 @@ Remember to be safe out there!
 
 
 <p>See you on the river,</p>
+
 </i>McMaster Whitewater Exec</i>
 
 
