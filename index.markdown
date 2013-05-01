@@ -23,9 +23,9 @@ Check us out on facebook at www.facebook.com/mcmaster.whitewater
 Remember to be safe out there!
 
 
-<p>See you on the river,</p>
-
-</i>McMaster Whitewater Exec</i>
+<p>Hope to see you on the river or in the pool,</p>
+<i>McMaster Whitewater Exec</i>
+</div>
 
 
 <div id='pictureDiv' style='position:relative;margin:0 auto;height:400px;width:800px;'>
