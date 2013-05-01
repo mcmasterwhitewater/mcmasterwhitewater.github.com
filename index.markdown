@@ -23,7 +23,6 @@ Check us out on facebook at www.facebook.com/mcmaster.whitewater
 Remember to be safe out there!
 
 <br/>
-<div style='float:right;'>
 <p>See you on the river,</p>
 <i>McMaster Whitewater Exec</i>
 </div>
