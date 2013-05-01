@@ -5,7 +5,7 @@ is_page: true
 ---
  
 
-New paddling season 2011 is upon us. Don't miss the opportunity to join us on the water. 
+New paddling season 2013 is upon us. Don't miss the opportunity to join us on the water. 
 
 [DOWNLOAD, FILL, SIGN and RETURN your WAIVER.](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0By5iTUP7UkcbNDE3NjYxYWQtZWU1MC00ZDBhLTk0NzktNjk3NjQ0OTYxZjYy&hl=en&authkey=CO7ot4cB)
 
