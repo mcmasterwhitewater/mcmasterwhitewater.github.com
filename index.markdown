@@ -16,9 +16,9 @@ Pool sessions are done for the school term, but we will have them up and running
 
 If you are intersted in taking a course with us this summer, check out the courses section of our website.  There is lots of fun to be had on the river this sumer so don't miss out.
 
-If you are an intermediate or experienced paddler, navigate to the [forum section](http://mcmasterwhitewater.ca/forum) to find out what the current members are up to.
+If you are an intermediate or experienced paddler, navigate to the [forum section](http://mcmasterwhitewater.ca/forum) to find out what the current members are up to. Also, be sure to check us out on [facebook](https://www.facebook.com/mcmaster.whitewater)
 
-Check us out on [facebook](https://www.facebook.com/mcmaster.whitewater)
+
 
 Remember to be safe out there!
 
