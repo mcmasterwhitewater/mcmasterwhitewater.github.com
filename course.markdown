@@ -35,7 +35,7 @@ Cost: $130*
 <br/>
 What: The Gull River is an 800m section of river located in Minden, ON.  This is a great section of river that allows for skill development for paddlers of all levels.  Whether you are looking to learn the basics of whitewater kayaking or improve on your skills the Gull is the place to do it. Dinner is provided Saturday Night.
 <br/>
-When: 10-12 August
+When: To Be Confirmed Soon!
 <br/>
 Cost: $130*
 <br/>
