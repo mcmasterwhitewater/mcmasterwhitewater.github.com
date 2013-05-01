@@ -9,7 +9,7 @@ to a roll clinic for intermediate kayakers who want to perfect their roll. Sign 
  
 We also want to let you know about a few course that we are going to be running this summer and hope that you guys would join us to learn how to run some rapids.  Over the weekend we will work through different whitewater skills with all the students and help you to learn how to run some rapids.  It will give you a chance to work on your rolls in some whitewater, and even if you dont quite have your roll, no need to worry its all part of learning!  We have a stong commitment to safety in our instruction and courses.  We also provide all the kayaking gear that you will be needing for the courses.
 
-So there are 3 courses over the course of the summer!
+So there are 3 courses over the course of the summer
 
 <b><i>Elora Gorge (Grand River, Elora, ON)</i></b>
 <br/>
