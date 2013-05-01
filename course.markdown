@@ -4,7 +4,7 @@ title: Courses
 is_page: true
 ---
 
-We offer several courses throughout the year. They range from a beginner course for those with little to no experience 
+We at McMaster WHitewater offer several courses throughout the year. They range from a beginner course for those with little to no experience 
 to a roll clinic for intermediate kayakers who want to perfect their roll. Sign up on the McMaster Athletics Web site.  Once you have taken a beginnger course, the rest of the pool sessions for the year are FREE! 
  
 We also want to let you know about a few course that we are going to be running this summer and hope that you guys would join us to learn how to run some rapids.  Over the weekend we will work through different whitewater skills with all the students and help you to learn how to run some rapids.  It will give you a chance to work on your rolls in some whitewater, and even if you dont quite have your roll, no need to worry its all part of learning!  We have a stong commitment to safety in our instruction and courses.  We also provide all the kayaking gear that you will be needing for the courses.
