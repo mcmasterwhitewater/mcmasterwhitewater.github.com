@@ -22,7 +22,7 @@ In 2006  Robbie Gibb, Jeff Masuda, Steve Bickerton, Laura Duncan and Stacey Gray
 
 
 
-## McMaster Whitewater exec 2011/2012
+## McMaster Whitewater exec 2012/2013
 
 Joel Roeleveld - Club Co President 
 
@@ -31,8 +31,6 @@ Mike Gordon - Club Co President
 Brad Statham - Vice President
 
 Laura Duncan
-
-Geoff Boyd
 
 Leigh Anne Roddick
 
@@ -44,4 +42,4 @@ Chantal Deketele
 
 ## Past exec
 
-Greg Barltrop, Robertson Gibb, Jeff Masuda, Steven Bickerton, Mark Evans, Stacey Gray
+Greg Barltrop, Robertson Gibb, Jeff Masuda, Steven Bickerton, Mark Evans, Stacey Gray, Geoff Boyd, 
