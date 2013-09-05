@@ -16,19 +16,16 @@ What: This is a small whitewater park just across the boarder in New York. Come 
 When: 22 September, 2013
 <br/>
 Cost: $40*
-
 <br/>
 <br/>
 * <i>Note: The cost of the trips is based on gas price estimations.  If the cost of gas changes dramatically we might need to reevaluate the cost of the trip</i>
 
 [DOWNLOAD, FILL, SIGN and RETURN your WAIVER.](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0By5iTUP7UkcbNDE3NjYxYWQtZWU1MC00ZDBhLTk0NzktNjk3NjQ0OTYxZjYy&hl=en&authkey=CO7ot4cB)
-
 <br/>
 <br/>
+We will also be running some pool courses this year in both semesters. Check out the details!
 
-We will also be running some pool courses this year. Check out the details!
-
-Fall Beginner Course
+<b><i>Fall Beginner Course</i></b>
 What: This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a stong river paddler
 <br/>
 When: Friday November 8th, 8.30pm - 10:30pm, and Saturday November 9th, 12.30pm - 2.30pm
@@ -37,10 +34,7 @@ Where: Ivor Wynne Centre Pool (IWC)
 <br/>
 Cost: TBD
 
-<br/>
-<br/>
-
-Winter Beginner Course
+<b><i>Winter Beginner Course</i></b>
 What: This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a stong river paddler
 <br/>
 When: Saturday March 8th, 3pm - 5pm, and Sunday March 9th, 12.30pm - 2.30pm
@@ -49,10 +43,7 @@ Where: Ivor Wynne Centre Pool (IWC)
 <br/>
 Cost: TBD
 
-<br/>
-<br/>
-
-Winter Rolling Course
+<b><i>Winter Rolling Course</i></b>
 What: Rolling is an essential skill for any good kayaker. Not only does it help you stay nice and dry, but you are also much safer in your boat than out of it. Rolling is the key to make this all happen. In this course we will take you through the mechanics of rolling a kayak and help you hit that roll. Also if you want some help figuring out why your roll isnt working we can certainly do that too! 
 <br/>
 When: Saturday March 15th, 3pm - 5pm, and Sunday March 16th, 12.30pm - 2.30pm
