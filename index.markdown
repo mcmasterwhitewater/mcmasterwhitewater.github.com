@@ -18,7 +18,7 @@ If you are intersted in taking a course with us this fall, check out the [course
 
 If you are an intermediate or experienced paddler, navigate to the [forum section](http://mcmasterwhitewater.ca/forum) to find out what the current members are up to. Also, be sure to check us out on [facebook](https://www.facebook.com/mcmaster.whitewater)
 
-
+<br>
 
 Remember to be safe out there!
 
