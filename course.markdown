@@ -29,13 +29,13 @@ We will also be running some pool courses this year in both semesters. Check out
 
 <b><i>Fall Beginner Course</i></b>
 
-What: This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a stong river paddler
+<b>What:</b> This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a stong river paddler
 <br/>
-When: Friday November 8th, 8.30pm - 10:30pm, and Saturday November 9th, 12.30pm - 2.30pm
+<b>When:</b> Friday November 8th, 8.30pm - 10:30pm, and Saturday November 9th, 12.30pm - 2.30pm
 <br/>
-Where: Ivor Wynne Centre Pool (IWC)
+<b>Where:</b> Ivor Wynne Centre Pool (IWC)
 <br/>
-Cost: TBD
+<b>Cost:</b> TBD
 
 
 <b><i>Winter Beginner Course</i></b>
