@@ -17,12 +17,10 @@ We had a great time with the trips that ran this summer and we hope to keep thin
 <br/>
 <b>Cost:</b> $40*
 
-<br/>
-<br/>
-
 * <i>Note: The cost of the trips is based on gas price estimations.  If the cost of gas changes dramatically we might need to re-evaluate the cost of the trip</i>
 
 [DOWNLOAD, FILL, SIGN and RETURN your WAIVER.](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0By5iTUP7UkcbNDE3NjYxYWQtZWU1MC00ZDBhLTk0NzktNjk3NjQ0OTYxZjYy&hl=en&authkey=CO7ot4cB)
+
 
 
 We will also be running some pool courses this year in both semesters. Check out the details!
@@ -37,8 +35,6 @@ We will also be running some pool courses this year in both semesters. Check out
 <br/>
 <b>Cost:</b> TBD
 
-<br/>
-<br/>
 
 <b><i>Winter Beginner Course</i></b>
 
@@ -50,8 +46,6 @@ We will also be running some pool courses this year in both semesters. Check out
 <br/>
 <b>Cost:</b> TBD
 
-<br/>
-<br/>
 
 <b><i>Winter Rolling Course</i></b>
 
@@ -63,8 +57,6 @@ We will also be running some pool courses this year in both semesters. Check out
 <br/>
 <b>Cost:</b> TBD
 
-<br/>
-<br/>
 
 Hope you are interested in joining us on a trip this fall.  Its a great time of learning and its always lots of fun!
 
