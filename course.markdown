@@ -24,8 +24,6 @@ Cost: $40*
 
 [DOWNLOAD, FILL, SIGN and RETURN your WAIVER.](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0By5iTUP7UkcbNDE3NjYxYWQtZWU1MC00ZDBhLTk0NzktNjk3NjQ0OTYxZjYy&hl=en&authkey=CO7ot4cB)
 
-<br/>
-<br/>
 
 We will also be running some pool courses this year in both semesters. Check out the details!
 
@@ -39,8 +37,6 @@ Where: Ivor Wynne Centre Pool (IWC)
 <br/>
 Cost: TBD
 
-<br/>
-<br/>
 
 <b><i>Winter Beginner Course</i></b>
 
@@ -52,8 +48,6 @@ Where: Ivor Wynne Centre Pool (IWC)
 <br/>
 Cost: TBD
 
-<br/>
-<br/>
 
 <b><i>Winter Rolling Course</i></b>
 
@@ -65,8 +59,6 @@ Where: Ivor Wynne Centre Pool (IWC)
 <br/>
 Cost: TBD
 
-<br/>
-<br/>
 
 Hope you are intersted in joining us on a trip this fall.  Its a great time of learning and its always lots of fun!
 
