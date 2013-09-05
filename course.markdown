@@ -70,7 +70,7 @@ Cost: TBD
 
 Hope you are intersted in joining us on a trip this fall.  Its a great time of learning and its always lots of fun!
 
-- The Friday night pool sessions are starting up very soon. Our first pool session will be Friday September 20th, 2013, 8.30pm - 9.30 in the Ivor Wynne Centre (IWC) and will continue at the same time a place for the remainder of the year.
+- The Friday night pool sessions are starting up very soon. Our first pool session will be Friday September 20th, 2013, 8.30pm - 9.30 in the Ivor Wynne Centre (IWC) and will continue at the same time and place for the remainder of the year.
  
 - The club has kayaks and skirts available for members (and those that are curious) that do not possess a boat.  You only need to bring a swimsuit and a towel.
  
