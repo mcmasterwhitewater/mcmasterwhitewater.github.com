@@ -7,70 +7,48 @@ is_page: true
 We at McMaster Whitewater offer several courses throughout the year. They range from a beginner course for those with little to no experience 
 to a roll clinic for intermediate kayakers who want to perfect their roll. Sign up on the McMaster Athletics Web site.  Once you have taken a beginnger course, the rest of the pool sessions for the year are FREE! 
  
-We had a great time with the trips that ran this summer and we hope to keep things rolling with at least one more trip this fall.
+We also want to let you know about a few course that we are going to be running this summer and hope that you guys would join us to learn how to run some rapids.  Over the weekend we will work through different whitewater skills with all the students and help you to learn how to run some rapids.  It will give you a chance to work on your rolls in some whitewater, and even if you dont quite have your roll, no need to worry its all part of learning!  We have a stong commitment to safety in our instruction and courses.  We also provide all the kayaking gear that you will be needing for the courses.
 
-<b><i>Lock 32 Whitewater Centre (Rochester, NY, USA)</i></b>
+So there are 3 courses over the course of the summer
 
-<b>What:</b> This is a small whitewater park just across the boarder in New York. Come on this trip if you want a fun, safe into to whitewater paddling as well as a chance to throwdown in some of the features at the park.  This is only a 1 day trip, but a great introduction into whitewater kayaking. As we are heading to the US, anyone interested in the trip must have a vaild passport to take part in the trip.
+<b><i>Elora Gorge (Grand River, Elora, ON)</i></b>
 <br/>
-<b>When:</b> 22 September, 2013
+What: This is a really beautiful trip on some nice melo rapids up in Elora.  This is only a 1 day trip, but a great introduction into whitewater kayaking.
 <br/>
-<b>Cost:</b> $40*
+When: 15 June
+<br/>
+Cost: $60*
 
-<br/>
-<br/>
 
+
+<b><i>Madawaska River (Palmer Rapids, ON)</i></b>
+<br/>
+What: We drive up and campout at Palmer Rapids on Friday night.  Saturday is spent paddling Palmer Rapids which is a series of 2 rapids that you can run multiple times, and is a great place to work on beginner skills. Sunday, we make out way a bit further down to paddle the rest of the Lower Mad.  Its a really fun day trip with a series of rapids that are lots of fun and a great spot to learn.  Dinner is provided on Saturday Night.
+<br/>
+When: 5-7 July
+<br/>
+Cost: $130*
+
+
+
+<b><i>Gull River (Minden, ON)</i></b>
+<br/>
+What: The Gull River is an 800m section of river located in Minden, ON.  This is a great section of river that allows for skill development for paddlers of all levels.  Whether you are looking to learn the basics of whitewater kayaking or improve on your skills the Gull is the place to do it. Dinner is provided Saturday Night.
+<br/>
+When: To Be Confirmed Soon!
+<br/>
+Cost: $130*
+<br/>
+<br/>
 * <i>Note: The cost of the trips is based on gas price estimations.  If the cost of gas changes dramatically we might need to reevaluate the cost of the trip</i>
 
 [DOWNLOAD, FILL, SIGN and RETURN your WAIVER.](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0By5iTUP7UkcbNDE3NjYxYWQtZWU1MC00ZDBhLTk0NzktNjk3NjQ0OTYxZjYy&hl=en&authkey=CO7ot4cB)
 
+Hope you are intersted in joining us on a trip or two this summer.  Its a great time of learning and its always lots of fun!
 
-We will also be running some pool courses this year in both semesters. Check out the details!
-
-<b><i>Fall Beginner Course</i></b>
-
-<b>What:</b> This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a stong river paddler
-<br/>
-<b>When:</b> Friday November 8th, 8.30pm - 10:30pm, and Saturday November 9th, 12.30pm - 2.30pm
-<br/>
-<b>Where:</b> Ivor Wynne Centre Pool (IWC)
-<br/>
-<b>Cost:</b> TBD
-
-<br/>
-<br/>
-
-<b><i>Winter Beginner Course</i></b>
-
-<b>What:</b> This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a stong river paddler
-<br/>
-<b>When:</b> Saturday March 8th, 3pm - 5pm, and Sunday March 9th, 12.30pm - 2.30pm
-<br/>
-<b>Where:</b> Ivor Wynne Centre Pool (IWC)
-<br/>
-<b>Cost:</b> TBD
-
-<br/>
-<br/>
-
-<b><i>Winter Rolling Course</i></b>
-
-<b>What:</b> Rolling is an essential skill for any good kayaker. Not only does it help you stay nice and dry, but you are also much safer in your boat than out of it. Rolling is the key to make this all happen. In this course we will take you through the mechanics of rolling a kayak and help you hit that roll. Also if you want some help figuring out why your roll isnt working we can certainly do that too! 
-<br/>
-<b>When:</b> Saturday March 15th, 3pm - 5pm, and Sunday March 16th, 12.30pm - 2.30pm
-<br/>
-<b>Where:</b> Ivor Wynne Centre Pool (IWC)
-<br/>
-<b>Cost:</b> TBD
-
-<br/>
-<br/>
-
-Hope you are intersted in joining us on a trip this fall.  Its a great time of learning and its always lots of fun!
-
-- The Friday night pool sessions are starting up very soon. Our first pool session will be Friday September 20th, 2013, 8.30pm - 9.30 in the Ivor Wynne Centre (IWC) and will continue at the same time and place for the remainder of the year.
+- The Friday night pool sessions are all done for the year, but we will have them up and running again come September!
  
-- The club has kayaks and skirts available for members (and those that are curious) that do not possess a boat.  You only need to bring a swimsuit and a towel.
+- The club has a kayaks and skirts available for members (and those that are curious) that do not possess a boat.  You only need to bring a swimsuit and a towel.
  
 If you have any questions or you would like to sign up for a course please email mcmasterwhitewater@gmail.com 
  
