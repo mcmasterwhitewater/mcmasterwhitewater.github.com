@@ -11,11 +11,11 @@ We had a great time with the trips that ran this summer and we hope to keep thin
 
 <b><i>Lock 32 Whitewater Centre (Rochester, NY, USA)</i></b>
 
-What: This is a small whitewater park just across the boarder in New York. Come on this trip if you want a fun, safe into to whitewater paddling as well as a chance to throwdown in some of the features at the park.  This is only a 1 day trip, but a great introduction into whitewater kayaking. As we are heading to the US, anyone interested in the trip must have a vaild passport to take part in the trip.
+<b>What:</b> This is a small whitewater park just across the boarder in New York. Come on this trip if you want a fun, safe into to whitewater paddling as well as a chance to throwdown in some of the features at the park.  This is only a 1 day trip, but a great introduction into whitewater kayaking. As we are heading to the US, anyone interested in the trip must have a vaild passport to take part in the trip.
 <br/>
-When: 22 September, 2013
+<b>When:</b> 22 September, 2013
 <br/>
-Cost: $40*
+<b>Cost:</b> $40*
 
 <br/>
 <br/>
@@ -37,28 +37,34 @@ We will also be running some pool courses this year in both semesters. Check out
 <br/>
 <b>Cost:</b> TBD
 
+<br/>
+<br/>
 
 <b><i>Winter Beginner Course</i></b>
 
-What: This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a stong river paddler
+<b>What:</b> This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a stong river paddler
 <br/>
-When: Saturday March 8th, 3pm - 5pm, and Sunday March 9th, 12.30pm - 2.30pm
+<b>When:</b> Saturday March 8th, 3pm - 5pm, and Sunday March 9th, 12.30pm - 2.30pm
 <br/>
-Where: Ivor Wynne Centre Pool (IWC)
+<b>Where:</b> Ivor Wynne Centre Pool (IWC)
 <br/>
-Cost: TBD
+<b>Cost:</b> TBD
 
+<br/>
+<br/>
 
 <b><i>Winter Rolling Course</i></b>
 
-What: Rolling is an essential skill for any good kayaker. Not only does it help you stay nice and dry, but you are also much safer in your boat than out of it. Rolling is the key to make this all happen. In this course we will take you through the mechanics of rolling a kayak and help you hit that roll. Also if you want some help figuring out why your roll isnt working we can certainly do that too! 
+<b>What:</b> Rolling is an essential skill for any good kayaker. Not only does it help you stay nice and dry, but you are also much safer in your boat than out of it. Rolling is the key to make this all happen. In this course we will take you through the mechanics of rolling a kayak and help you hit that roll. Also if you want some help figuring out why your roll isnt working we can certainly do that too! 
 <br/>
-When: Saturday March 15th, 3pm - 5pm, and Sunday March 16th, 12.30pm - 2.30pm
+<b>When:</b> Saturday March 15th, 3pm - 5pm, and Sunday March 16th, 12.30pm - 2.30pm
 <br/>
-Where: Ivor Wynne Centre Pool (IWC)
+<b>Where:</b> Ivor Wynne Centre Pool (IWC)
 <br/>
-Cost: TBD
+<b>Cost:</b> TBD
 
+<br/>
+<br/>
 
 Hope you are intersted in joining us on a trip this fall.  Its a great time of learning and its always lots of fun!
 
