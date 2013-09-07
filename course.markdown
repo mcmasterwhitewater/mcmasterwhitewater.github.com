@@ -69,6 +69,6 @@ If you have any questions or you would like to sign up for a course please email
 <div style='float:right;'>
 <br/>
 <p>Hope to see you on the river or in the pool,</p>
-<i>McMaster Whitewater Exec</i>
+<i>McMaster Whitewater Exec</i> 
 </div>
 
