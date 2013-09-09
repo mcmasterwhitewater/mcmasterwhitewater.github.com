@@ -12,11 +12,11 @@ We had a great time with the trips that ran this summer and we hope to keep thin
 <b><i>Lock 32 Whitewater Centre (Rochester, NY, USA)</i></b>
 <br/>
 <br/>
-<b>What?</b>: This is a small whitewater park just across the boarder in New York. Come on this trip if you want a fun, safe into to whitewater paddling as well as a chance to throwdown in some of the features at the park.  This is only a 1 day trip, but a great introduction into whitewater kayaking. As we are heading to the US, anyone interested in the trip must have a valid passport to take part in the trip.
+- What?: This is a small whitewater park just across the boarder in New York. Come on this trip if you want a fun, safe into to whitewater paddling as well as a chance to throwdown in some of the features at the park.  This is only a 1 day trip, but a great introduction into whitewater kayaking. As we are heading to the US, anyone interested in the trip must have a valid passport to take part in the trip.
 <br/>
-<b>When?</b>: Sunday September 22, 2013
+- When?: Sunday September 22, 2013
 <br/>
-<b>How much?</b>: $40* - this includes transport, entry fee to the whitewater park, and your equipment rental for the day
+- How much?: $40* - this includes transport, entry fee to the whitewater park, and your equipment rental for the day
 <br/>
 <br/>
 <i> * Note: The cost of the trips is based on gas price estimations.  If the cost of gas changes dramatically we might need to re-evaluate the cost of the trip</i>
@@ -28,35 +28,35 @@ We will also be running some pool courses this year in both semesters. Check out
 <b><i>Fall Beginner Course</i></b>
 <br/>
 <br/>
-<b>What?</b>: This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a strong river paddler
+- What?: This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a strong river paddler
 <br/>
-<b>When?</b>: Friday November 8th, 8.30pm - 10:30pm, and Saturday November 9th, 12.30pm - 2.30pm
+- When?: Friday November 8th, 8.30pm - 10:30pm, and Saturday November 9th, 12.30pm - 2.30pm
 <br/>
-<b>Where?</b>: Ivor Wynne Centre Pool - McMaster University
+- Where?: Ivor Wynne Centre Pool - McMaster University
 <br/>
-<b>How much?</b>: TBD
+- How much?: TBD
 
 <b><i>Winter Beginner Course</i></b>
 <br/>
 <br/>
-<b>What?</b>: This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a strong river paddler
+- What?: This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a strong river paddler
 <br/>
-<b>When?</b>: Saturday March 8th, 3pm - 5pm, and Sunday March 9th, 12.30pm - 2.30pm 
+- When?: Saturday March 8th, 3pm - 5pm, and Sunday March 9th, 12.30pm - 2.30pm 
 <br/>
-<b>Where?</b>: Ivor Wynne Centre Pool - McMaster University
+- Where?: Ivor Wynne Centre Pool - McMaster University
 <br/>
-<b>How much?</b>: TBD
+- How much?: TBD
 
 <b><i>Winter Rolling Clinic</i></b>
 <br/>
 <br/>
-<b>What?</b>: Rolling is an essential skill for any good kayaker. Not only does it help you stay nice and dry, but you are also much safer in your boat than out of it. Rolling is the key to make this all happen. In this course we will take you through the mechanics of rolling a kayak and help you hit that roll. Also if you want some help figuring out why your roll is not working we can certainly do that too! 
+- What?: Rolling is an essential skill for any good kayaker. Not only does it help you stay nice and dry, but you are also much safer in your boat than out of it. Rolling is the key to make this all happen. In this course we will take you through the mechanics of rolling a kayak and help you hit that roll. Also if you want some help figuring out why your roll is not working we can certainly do that too! 
 <br/>
-<b>When?</b>: Saturday March 15th, 3pm - 5pm, and Sunday March 16th, 12.30pm - 2.30pm
+- When?: Saturday March 15th, 3pm - 5pm, and Sunday March 16th, 12.30pm - 2.30pm
 <br/>
-<b>Where?</b>: Ivor Wynne Centre Pool - McMaster Univerity
+- Where?: Ivor Wynne Centre Pool - McMaster Univerity
 <br/>
-<b>How much?</b>: TBD
+- How much?: TBD
 
 Hope you are interested in joining us on a trip this fall.  Its a great time of learning and its always lots of fun!
 
