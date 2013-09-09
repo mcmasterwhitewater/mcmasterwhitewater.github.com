@@ -12,10 +12,12 @@ We had a great time with the trips that ran this summer and we hope to keep thin
 Lock 32 Whitewater Centre (Rochester, NY, USA)
 
 What?: This is a small whitewater park just across the boarder in New York. Come on this trip if you want a fun, safe into to whitewater paddling as well as a chance to throwdown in some of the features at the park.  This is only a 1 day trip, but a great introduction into whitewater kayaking. As we are heading to the US, anyone interested in the trip must have a valid passport to take part in the trip.
+<br/>
 When?: Sunday September 22, 2013
+<br/>
 How much?: $40* - this includes transport, entry fee to the whitewater park, and your equipment rental for the day
-
-* <i>Note: The cost of the trips is based on gas price estimations.  If the cost of gas changes dramatically we might need to re-evaluate the cost of the trip</i>
+<br/>
+<i> * Note: The cost of the trips is based on gas price estimations.  If the cost of gas changes dramatically we might need to re-evaluate the cost of the trip</i>
 
 [DOWNLOAD, FILL, SIGN and RETURN your WAIVER.](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0By5iTUP7UkcbNDE3NjYxYWQtZWU1MC00ZDBhLTk0NzktNjk3NjQ0OTYxZjYy&hl=en&authkey=CO7ot4cB)
 
@@ -24,22 +26,31 @@ We will also be running some pool courses this year in both semesters. Check out
 Fall Beginner Course
 
 What?: This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a strong river paddler
+<br/>
 When?: Friday November 8th, 8.30pm - 10:30pm, and Saturday November 9th, 12.30pm - 2.30pm
+<br/>
 Where?: Ivor Wynne Centre Pool - McMaster University
+<br/>
 How much?: TBD
 
 Winter Beginner Course
 
 What?: This is a fun introduction to the world of kayaking. We will go through some of the basic strokes, edging and boat control, wet exits, and rolling among other things. These things are all necessary skills that will help you transition into a strong river paddler
+<br/>
 When?: Saturday March 8th, 3pm - 5pm, and Sunday March 9th, 12.30pm - 2.30pm 
+<br/>
 Where?: Ivor Wynne Centre Pool - McMaster University
+<br/>
 How much?: TBD
 
 Winter Rolling Clinic
 
 What?: Rolling is an essential skill for any good kayaker. Not only does it help you stay nice and dry, but you are also much safer in your boat than out of it. Rolling is the key to make this all happen. In this course we will take you through the mechanics of rolling a kayak and help you hit that roll. Also if you want some help figuring out why your roll isn’t working we can certainly do that too! 
+<br/>
 When?: Saturday March 15th, 3pm - 5pm, and Sunday March 16th, 12.30pm - 2.30pm
+<br/>
 Where?: Ivor Wynne Centre Pool - McMaster Univerity
+<br/>
 How much?: TBD
 
 Hope you are interested in joining us on a trip this fall.  Its a great time of learning and its always lots of fun!
