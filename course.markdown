@@ -59,7 +59,8 @@ We will also be running some pool courses this year in both semesters. Check out
 - Where?: Ivor Wynne Centre Pool - McMaster Univerity
 <br/>
 - How much?: TBD
-
+<br/>
+<br/>
 Hope you are interested in joining us on a trip this fall.  Its a great time of learning and its always lots of fun!
 
 <b><i>Pool Session Info</i></b>
