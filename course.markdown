@@ -24,7 +24,7 @@ We had a great time with the trips that ran this summer and we hope to keep thin
 [DOWNLOAD, FILL, SIGN and RETURN your WAIVER.](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0By5iTUP7UkcbNDE3NjYxYWQtZWU1MC00ZDBhLTk0NzktNjk3NjQ0OTYxZjYy&hl=en&authkey=CO7ot4cB)
 
 We will also be running some pool courses this year in both semesters. Check out the details!
-
+<br/>
 <b><i>Fall Beginner Course</i></b>
 <br/>
 <br/>
@@ -35,7 +35,8 @@ We will also be running some pool courses this year in both semesters. Check out
 - Where?: Ivor Wynne Centre Pool - McMaster University
 <br/>
 - How much?: TBD
-
+<br/>
+<br/>
 <b><i>Winter Beginner Course</i></b>
 <br/>
 <br/>
@@ -46,7 +47,8 @@ We will also be running some pool courses this year in both semesters. Check out
 - Where?: Ivor Wynne Centre Pool - McMaster University
 <br/>
 - How much?: TBD
-
+<br/>
+<br/>
 <b><i>Winter Rolling Clinic</i></b>
 <br/>
 <br/>
