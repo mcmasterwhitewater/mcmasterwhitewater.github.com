@@ -46,7 +46,7 @@ How much?: TBD
 
 <b><i>Winter Rolling Clinic</i></b>
 
-What?: Rolling is an essential skill for any good kayaker. Not only does it help you stay nice and dry, but you are also much safer in your boat than out of it. Rolling is the key to make this all happen. In this course we will take you through the mechanics of rolling a kayak and help you hit that roll. Also if you want some help figuring out why your roll isn’t working we can certainly do that too! 
+What?: Rolling is an essential skill for any good kayaker. Not only does it help you stay nice and dry, but you are also much safer in your boat than out of it. Rolling is the key to make this all happen. In this course we will take you through the mechanics of rolling a kayak and help you hit that roll. Also if you want some help figuring out why your roll is not working we can certainly do that too! 
 <br/>
 When?: Saturday March 15th, 3pm - 5pm, and Sunday March 16th, 12.30pm - 2.30pm
 <br/>
